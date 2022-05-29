@@ -1,0 +1,1001 @@
+order_id,first_name,last_name,email,cost,item_id,item_name,ship_date
+1,Marianne,Billison,mbillison0@usda.gov,80.82,0dffe46c-d94e-42d2-9c63-92b651009b48,Jeans,2019-02-18
+2,Beckie,Fussen,bfussen1@tripadvisor.com,72.58,84ad1caa-1ddc-45a4-b0c3-ffd75f65d613,Leggings,2019-03-28
+3,Berta,Haddinton,bhaddinton2@businessinsider.com,21.64,57352738-fe43-4dd7-8d45-ba6fba1c732a,Tank Top,2019-03-12
+4,Erminie,Northeast,enortheast3@livejournal.com,97.28,d4292ec3-571d-47ff-8ddc-3d73bbb40242,Leggings,2019-11-11
+5,Myrwyn,Fahy,mfahy4@omniture.com,26.77,aea7f3de-2593-42dd-a9a0-1bff3bebbbfa,V-Neck Pullover,2019-03-03
+6,Xymenes,Tournie,xtournie5@admin.ch,65.21,7f51f2cd-2b75-4e61-bb81-c77735ef1933,Fleece Jacket,2019-11-17
+7,Abbey,Giannasi,agiannasi6@google.de,50.81,fb5b6220-3b13-4eba-b6a5-52d4e1ddeba7,Polo Shirt,2019-07-08
+8,Charisse,Antcliffe,cantcliffe7@nydailynews.com,52.80,a7520aca-2870-498c-a328-03c7638f7afb,Vest,2019-05-11
+9,Pepillo,Lammertz,plammertz8@bloomberg.com,14.92,67c0be55-f4b2-4041-ba03-aa81e2dbfbbd,Sweater,2019-07-20
+10,Knox,Denniss,kdenniss9@comcast.net,16.33,01f08014-f070-4f14-ad44-664adbec45e4,Vest,2019-08-17
+11,Ber,Bohlin,bbohlina@webeden.co.uk,66.18,ee769fe4-df2c-4733-a46d-96c1098dcc3f,Tank Top,2019-08-07
+12,Maurise,Willisch,mwillischb@google.co.jp,54.82,3295bc5f-eeb1-4a1d-8a27-3cf65ae0f6a3,V-Neck Pullover,2019-07-07
+13,Maisie,Gauld,mgauldc@usda.gov,22.42,b5a15eae-bfb2-48af-bd86-8e3da707595d,Polo Shirt,2019-10-25
+14,Biron,Langtree,blangtreed@desdev.cn,39.62,abb73851-7dcf-4b95-8ceb-f6966065a57a,Ski Coat,2019-03-13
+15,Barb,Absolon,babsolone@nasa.gov,91.50,fdfcfe62-87a8-46ab-a3ee-7817d6a41f96,Ski Coat,2019-05-26
+16,Lorens,Robjant,lrobjantf@ovh.net,64.61,7d203b92-8b93-4ffe-a5c8-78d5e75d6e5f,V-Neck Pullover,2019-06-16
+17,Bobbee,Riggulsford,briggulsfordg@slashdot.org,26.78,9e173e66-779c-43b0-a525-ece4c72e4112,Leggings,2019-10-04
+18,Alia,Brunesco,abrunescoh@slate.com,79.03,fe9e76a2-e920-4f0d-86ce-f48816671758,Stretch Pants,2019-09-09
+19,Sigismond,Conneau,sconneaui@clickbank.net,18.07,a4d87e5f-80c8-4a11-bfc5-2ecc73c436b4,Vest,2019-10-18
+20,Rand,Kurth,rkurthj@mozilla.com,49.42,b4492688-3443-4c4c-b0e0-5913df71ae71,Sneakers,2019-11-28
+21,Obed,Daudray,odaudrayk@geocities.jp,43.07,5c68334c-a508-4f62-8112-d99b992d82c8,Fleece Jacket,2019-02-13
+22,Damara,Musson,dmussonl@lulu.com,41.30,9fd36337-a28d-4553-8608-c9eac616e28e,Stretch Pants,2019-08-01
+23,Leoline,Brobeck,lbrobeckm@ameblo.jp,92.53,9eac13ac-3c05-471a-a12e-241145b7c5f6,Ski Coat,2019-09-06
+24,Terence,Bruggen,tbruggenn@sina.com.cn,46.01,6a59c21b-8332-45d8-a9a8-9d28e30bbd25,Jeans,2019-05-23
+25,Jeana,Ghiroldi,jghiroldio@earthlink.net,40.97,bb4dd84c-ba7e-4abf-9e59-0100e3407245,Tank Top,2019-11-26
+26,Christophe,Wannes,cwannesp@vinaora.com,59.04,a9238579-8d4e-44a7-bccc-02d49dd3cbc0,Leggings,2019-12-21
+27,Isidor,Boribal,iboribalq@samsung.com,7.93,d5a0db21-dc8e-4866-82d8-0d6016398857,Tank Top,2019-07-22
+28,Frank,Knudsen,fknudsenr@constantcontact.com,15.06,050dbe21-93be-4b10-ae03-2b04626d1f6a,Vest,2019-07-19
+29,Pace,Silbert,psilberts@reverbnation.com,16.34,5b6d733a-5c7d-48da-8682-2dd148825e70,Jeans,2019-06-03
+30,Nickey,Bercher,nberchert@nsw.gov.au,72.48,2e2405b4-ec1b-441a-8225-6f6de08fb8cc,Tank Top,2019-02-13
+31,Brian,Westby,bwestbyu@phpbb.com,3.48,8c889bfc-99bc-48ce-ac1e-c7458f2140f6,Ski Coat,2019-04-22
+32,Arthur,Hellsdon,ahellsdonv@spotify.com,21.86,6766bc74-b33a-4ce0-90e2-99d8665852ff,Vest,2019-03-12
+33,Crosby,Bozward,cbozwardw@about.me,31.48,4f3f26b3-fab8-4a79-8db5-e9755db6e2e3,Ski Coat,2019-07-23
+34,Ave,Crick,acrickx@msn.com,47.91,c196e4f8-6023-43fd-b9d4-a05d280143bf,Polo Shirt,2019-09-16
+35,Faythe,Parcell,fparcelly@google.ru,25.93,5edd6015-3387-4a9a-ba62-0c9841c2e03f,Stretch Pants,2019-03-19
+36,Stephana,Daniell,sdaniellz@elegantthemes.com,83.47,e4bd725a-db8d-4775-b0eb-9ab1df74ddd5,Sweater,2019-11-29
+37,Geordie,Reisenstein,greisenstein10@ebay.co.uk,91.56,e324a008-12ba-4886-82d3-39ac7357796e,Ski Coat,2019-12-23
+38,Glyn,Cherrison,gcherrison11@unicef.org,77.21,af089718-c52b-42b9-a7eb-891fd33ef72b,Sneakers,2019-11-05
+39,Gordon,Goodreid,ggoodreid12@omniture.com,92.28,891baed9-23a2-46b5-84c9-ecbd7f14d222,V-Neck Pullover,2019-10-15
+40,Melly,Joire,mjoire13@wired.com,28.73,a630c36a-9647-40da-a884-6c8835ba970c,Stretch Pants,2019-05-12
+41,Dyna,Danilchev,ddanilchev14@parallels.com,45.53,c48de1e4-8642-4631-9f55-5257de83b049,Tank Top,2020-01-01
+42,Ralph,Lobley,rlobley15@hp.com,90.53,2db816ef-70f1-4d46-a0f6-bc1418b5e47b,Tank Top,2019-05-15
+43,Jeramie,Rand,jrand16@mapquest.com,52.72,97b9dabb-d604-49a7-96c2-9dbbd11c8719,Tank Top,2019-08-10
+44,Leeanne,Threadgold,lthreadgold17@go.com,97.53,0f6450f2-32a8-403e-921d-477e89100bf0,Jeans,2019-04-05
+45,Rubi,Gillani,rgillani18@dot.gov,89.73,77ed78c3-86e4-4cb2-a5fa-e4fb876661b9,Tank Top,2019-04-12
+46,Massimiliano,McTrustram,mmctrustram19@theguardian.com,92.11,be0bc7a3-96aa-4ebf-8971-0fe5db4b602b,Leggings,2019-06-19
+47,Leopold,Roadnight,lroadnight1a@fda.gov,87.99,7b5138fb-9de8-475e-afe5-835ce9923d25,Jeans,2019-12-09
+48,Gwenny,Costain,gcostain1b@oracle.com,26.24,ea2054b5-8e08-40b1-8433-7486effd1177,V-Neck Pullover,2019-10-16
+49,Robenia,O'Dowgaine,rodowgaine1c@cbc.ca,10.02,1165320c-4f7c-440f-8055-565c6655775c,Ski Coat,2019-02-24
+50,Del,Barham,dbarham1d@ibm.com,9.97,448a59a8-9bd9-418f-9ff5-caa00273b6b8,Sneakers,2019-10-23
+51,Clovis,O' Sullivan,cosullivan1e@sitemeter.com,20.86,6fcf6e88-8cfa-451c-81ee-42240bd94937,Sweater,2019-05-23
+52,Kaye,Kantor,kkantor1f@narod.ru,45.81,5f7727f1-cacd-4707-80dd-e3f4dab4ab6c,Ski Coat,2019-05-29
+53,Andreana,Whitton,awhitton1g@senate.gov,96.08,e969d823-0040-4397-8b18-d0d2f45c4df7,Polo Shirt,2019-03-03
+54,Frasco,Westberg,fwestberg1h@ifeng.com,53.25,24c0155a-75ea-4b13-8001-0d11c0bd7f0f,V-Neck Pullover,2019-08-04
+55,Lexie,Sowerbutts,lsowerbutts1i@answers.com,91.17,54f365fc-9716-41d9-accf-4b96dd1e3a53,Leggings,2019-09-21
+56,Estella,Aireton,eaireton1j@google.fr,93.62,e06c78c1-15c0-4197-93b8-37d60a12fcdf,Jeans,2019-11-05
+57,Minnaminnie,Steade,msteade1k@pen.io,11.86,33d705f4-988c-472b-8b08-c3b0c23d1532,Jeans,2019-02-08
+58,Reeta,Overell,roverell1l@cafepress.com,59.30,1e9cb0ff-4636-4c40-acbc-8508f9dae1b1,Ski Coat,2019-07-18
+59,Bekki,Rewan,brewan1m@economist.com,16.33,4ef7afd8-11a2-48c7-bb8d-357f780b4048,Ski Coat,2019-03-03
+60,Terri,Krysztofowicz,tkrysztofowicz1n@studiopress.com,84.53,6817b153-45a0-4c35-9fce-8afd1870ea7c,Polo Shirt,2019-06-20
+61,Arney,Berford,aberford1o@nbcnews.com,90.77,02765437-5e7d-4eb1-abc8-c3da1353c6b6,Stretch Pants,2019-08-10
+62,Brucie,Ickovic,bickovic1p@dell.com,94.91,92a3e0ea-f28a-457a-9935-1a3fe1427699,Tank Top,2019-04-01
+63,Roby,Fesby,rfesby1q@google.co.uk,58.11,c6e49f57-0f26-4a52-90c9-bccd3a869a3c,Sweater,2019-07-20
+64,Cilka,Blevin,cblevin1r@issuu.com,71.33,4039bca7-c22e-48b6-a8ac-0bf80159fc0d,V-Neck Pullover,2019-08-06
+65,Winslow,Bellson,wbellson1s@over-blog.com,41.47,90f1d399-eb05-4f7d-85d2-21765f72f9cc,Tank Top,2019-07-05
+66,Torey,Cobello,tcobello1t@bigcartel.com,70.53,6ecdedc0-3c62-4ecf-8e70-88e3b74c72b1,Jeans,2019-01-27
+67,Justis,Kissell,jkissell1u@harvard.edu,36.69,2ad83db3-23e5-41ed-b2d6-cec10e9751af,Leggings,2019-06-22
+68,Evanne,Toland,etoland1v@cdbaby.com,92.99,221aa9d4-29d8-43e2-8b7c-4f70ae43aeae,Polo Shirt,2019-12-25
+69,Sheeree,Murden,smurden1w@acquirethisname.com,67.90,5189ec57-b8de-4980-86e4-926435320957,Fleece Jacket,2019-12-17
+70,Emmalyn,Speakman,espeakman1x@prlog.org,4.28,cde66c4f-8fbb-4d70-83e2-ca158ef5b2bb,Stretch Pants,2019-02-17
+71,Adrea,Penhall,apenhall1y@go.com,63.65,d47473c1-1459-43ed-a428-9d92b25595d3,Leggings,2019-09-21
+72,Petronille,O Mullen,pomullen1z@utexas.edu,89.01,6fa5d176-2e96-4ceb-8648-02b5b82be476,Polo Shirt,2019-12-18
+73,Bo,MacNeely,bmacneely20@answers.com,7.13,5fe62a5a-a825-41fa-90e9-b4a77381b8cd,Polo Shirt,2019-01-11
+74,Lilas,Melsom,lmelsom21@privacy.gov.au,15.48,6970b72e-0a34-449f-b392-68dfb97a025c,Leggings,2019-05-05
+75,Fred,Blampied,fblampied22@mozilla.org,94.59,1aeee396-50ad-45f6-9b53-30df570e87d6,Fleece Jacket,2019-01-17
+76,Michel,Eckley,meckley23@vistaprint.com,12.51,affd5f61-064c-4e66-8353-97073dbffc1e,Polo Shirt,2019-05-25
+77,Betsy,Carlone,bcarlone24@ezinearticles.com,26.41,900f0ffa-9e78-4c87-bb51-a09b10244cd2,Sweater,2019-10-06
+78,Dasya,Tolliday,dtolliday25@4shared.com,2.17,992e8b31-a6a4-4834-8ca2-b562c70da75f,Vest,2019-01-15
+79,Cleveland,Goodlake,cgoodlake26@webmd.com,9.55,a3af2eb6-3626-458e-a542-97dff16383e3,Polo Shirt,2019-05-31
+80,Jacquie,Booth,jbooth27@virginia.edu,73.11,c7ccf8ab-167f-4ab4-ad4d-a313d6c961c6,Ski Coat,2019-01-19
+81,Sansone,Coat,scoat28@51.la,13.87,3db28da9-5f9f-4fa8-8ab2-d76ba15ffe7d,V-Neck Pullover,2019-03-24
+82,Carina,Brettle,cbrettle29@fc2.com,37.88,b628d9ca-aa94-4307-a8e3-dcaf89008661,Jeans,2019-10-31
+83,Elora,Robak,erobak2a@icq.com,70.46,74bf6d42-f47c-4fdc-8b10-8d44f072ec0e,Sneakers,2019-12-13
+84,Conway,Blueman,cblueman2b@biblegateway.com,64.47,6981523e-0d94-416f-825a-a7b271f8c80d,Ski Coat,2019-07-26
+85,Rosemonde,Thombleson,rthombleson2c@360.cn,48.78,543687a4-2ae8-4b8a-afef-7b52f5456250,Fleece Jacket,2019-03-01
+86,Cornela,Ellens,cellens2d@tumblr.com,79.91,8997b73f-8948-4769-83ab-57bc3125a28b,Sweater,2019-11-15
+87,Delmar,Quadrio,dquadrio2e@si.edu,96.74,57e9eeba-4b27-4fda-bf01-2d4cb395f329,Jeans,2019-07-17
+88,Alyson,Anneslie,aanneslie2f@booking.com,40.03,1c882327-d0ce-4cfd-9eea-8eef7ee318e1,Vest,2019-12-30
+89,Fredrick,Planque,fplanque2g@nba.com,33.63,a1d68fdf-d40f-4a1e-ba4b-d30e0c074369,Tank Top,2019-08-16
+90,Joellyn,Barensky,jbarensky2h@mashable.com,18.90,b3dd0301-6c9f-4f4d-9438-29260f639d28,Polo Shirt,2019-03-03
+91,Madlen,Conochie,mconochie2i@digg.com,35.22,ee09588a-138a-4370-8a24-10771b745ba3,Fleece Jacket,2019-12-17
+92,Rubie,Asche,rasche2j@marriott.com,72.88,fe5768b1-25ae-47be-9262-9757f5249da8,Stretch Pants,2019-12-10
+93,Kayne,Booley,kbooley2k@mediafire.com,43.09,e01bfb57-78a0-4b45-afb4-fe69d51e7ae6,V-Neck Pullover,2019-02-15
+94,Shelly,Snary,ssnary2l@fda.gov,26.12,538a7aff-a0e2-4c92-b9f7-7cdb9a1804c5,Leggings,2019-04-05
+95,Nealson,Cornejo,ncornejo2m@taobao.com,12.49,8a519d2a-2a86-4826-975d-98a4b25fd80c,Tank Top,2019-10-27
+96,Taddeo,Woosnam,twoosnam2n@yahoo.com,64.92,16beb48b-3adb-4060-83ad-d01308a31546,Vest,2019-12-03
+97,Caty,Warden,cwarden2o@biglobe.ne.jp,94.48,dd081f08-b959-4ef5-b556-01b684f95cec,Fleece Jacket,2019-12-31
+98,Courtnay,Maron,cmaron2p@umich.edu,43.49,58d27e09-cec1-4cb8-bc35-7cdbd1d40965,Fleece Jacket,2019-11-07
+99,Ira,McBrearty,imcbrearty2q@narod.ru,40.42,364f3386-62c3-47a5-821e-d85858054078,Polo Shirt,2019-12-02
+100,Lionel,MacKellen,lmackellen2r@pen.io,5.47,983db865-852a-4019-926a-11f41583a890,Ski Coat,2019-06-03
+101,Angele,Thomton,athomton2s@marketwatch.com,59.13,2efc3da7-837a-48af-8475-e26fdb67f01f,Leggings,2019-07-21
+102,Charlot,Furby,cfurby2t@angelfire.com,40.25,3ff6fdb2-0534-44ca-a5a9-6042034d6973,Sneakers,2019-04-28
+103,Ulick,Dunstall,udunstall2u@digg.com,59.75,768422a7-edb7-4dbe-9e81-ed2a6eb41eca,Stretch Pants,2019-09-12
+104,Lani,Fisbey,lfisbey2v@webs.com,23.61,f3d7a97a-4e22-4809-80ce-3305d9749622,Sneakers,2019-04-24
+105,Brade,Strapp,bstrapp2w@patch.com,0.07,997b1f2e-bfeb-4c5d-8453-aa53b308a7a2,Jeans,2019-06-01
+106,Merwyn,Sebastian,msebastian2x@xrea.com,84.61,223d51ea-9ec2-40f0-95d6-688bbaf71ffd,Fleece Jacket,2019-08-12
+107,Cynde,Bonevant,cbonevant2y@marketwatch.com,68.32,b6db0ac2-6b00-477e-9449-093394792c91,Tank Top,2019-09-01
+108,Jerrome,Tempest,jtempest2z@nhs.uk,56.06,bee8fee9-1000-4e2d-a1b6-1a2e306de8b0,Sweater,2019-12-19
+109,Anders,Marflitt,amarflitt30@washingtonpost.com,56.23,5cdc669a-f56a-4a3b-b9cc-4f021a169bf6,V-Neck Pullover,2019-02-14
+110,Rossy,Kingswood,rkingswood31@slideshare.net,36.44,48abda51-17c9-4568-8693-6ca0d7ca3348,Sweater,2019-05-20
+111,Sileas,Jolly,sjolly32@about.me,60.42,c1441858-12bf-4cce-9875-056e39f6027b,Polo Shirt,2019-08-07
+112,Elonore,Dufore,edufore33@wikispaces.com,86.80,246fe870-42b7-4bf3-9447-80cc26eecefc,Vest,2019-03-05
+113,Lynnea,Jindacek,ljindacek34@behance.net,88.65,307133f0-cd37-4484-aff9-a9963716d0b7,Jeans,2019-12-13
+114,James,Heart,jheart35@is.gd,67.38,ea48c2e2-004f-475c-9ff9-f68565df2cfb,Sweater,2019-06-14
+115,Phelia,Gately,pgately36@google.ca,4.67,24934856-ecfa-4dcb-8709-83e6031e9cb3,Sweater,2019-05-31
+116,Laurice,Kiessel,lkiessel37@github.io,99.11,09527538-c05c-4cd3-9a27-b7b256dc9a7a,Sweater,2019-01-10
+117,Hobie,Shotboulte,hshotboulte38@japanpost.jp,43.49,29d87adb-5d3e-4366-8460-ea44d8d85ad4,Sneakers,2019-03-17
+118,Henderson,Bartelet,hbartelet39@state.gov,2.34,a9a58dfb-c586-4619-9134-6cd8718f680d,Polo Shirt,2019-07-29
+119,Brocky,Lobley,blobley3a@usatoday.com,92.93,1d9b8825-cd76-4a95-ac78-5651b502f8aa,Ski Coat,2019-02-26
+120,Meg,Kensit,mkensit3b@ox.ac.uk,74.81,c37b7de7-9e1d-42f7-ada2-58747c13454e,Polo Shirt,2019-03-06
+121,Catriona,Vaneschi,cvaneschi3c@usda.gov,97.07,dec0e920-1ffa-4c7f-8bed-d2e7b6326a3c,Jeans,2019-12-24
+122,Anselma,Michin,amichin3d@umich.edu,13.04,2744dc6b-5c23-40cc-a9e5-807fdd5a40c6,Polo Shirt,2019-04-15
+123,Markus,Ianelli,mianelli3e@ed.gov,1.86,00417091-dc90-44ab-8827-51147cac9a26,Fleece Jacket,2019-10-24
+124,Jerome,Giottini,jgiottini3f@dmoz.org,89.32,e58e359b-1c81-493f-9d81-5595f03ea4f8,Stretch Pants,2019-08-13
+125,Tiphani,Lobell,tlobell3g@pen.io,38.83,d7adf9b4-c1d9-4d6c-8730-a53dc30f6d86,Sweater,2019-08-18
+126,Janeva,Davidescu,jdavidescu3h@smh.com.au,1.26,245ea6ef-40ee-4c74-ac1e-4db31e327428,Leggings,2019-02-16
+127,Ruthy,Gravenor,rgravenor3i@gnu.org,63.50,727a13c7-43ac-46f0-8d5b-1c8a56149f1c,Polo Shirt,2019-03-02
+128,Deana,Cullrford,dcullrford3j@boston.com,79.36,336b9f12-0bbc-4123-8f87-1cbf06fadbb4,Sweater,2019-03-24
+129,Hort,Lowde,hlowde3k@mozilla.org,13.56,6c8fc3c6-818c-4334-ac19-498c7bd599d1,Polo Shirt,2019-04-22
+130,Larine,Curteis,lcurteis3l@soup.io,80.68,48120867-6ebf-4cb2-b6db-e0db2121614f,Sweater,2019-09-09
+131,Amargo,Marfell,amarfell3m@ebay.com,41.69,ab42a576-8c84-40a6-831e-3c326f23fb6d,Sneakers,2020-01-02
+132,Mikaela,Kornousek,mkornousek3n@friendfeed.com,57.42,d05d304b-7936-46aa-9d54-7e4bc8d5756f,Jeans,2019-10-26
+133,Brice,Millier,bmillier3o@bravesites.com,76.53,f215fe7e-4817-4a85-8172-fd1c5764549f,Jeans,2019-07-17
+134,Lionello,Myner,lmyner3p@archive.org,69.43,9a3f72bb-1fa6-49ee-9c27-86acd1156da3,Sweater,2019-03-19
+135,Dunn,Crayker,dcrayker3q@bluehost.com,20.72,e30ac82c-3717-44d0-a52b-233e55a0a88d,Tank Top,2019-05-16
+136,Cameron,Crayton,ccrayton3r@state.gov,99.40,ca0f1823-ea57-49de-a52e-a465efbe7518,Jeans,2019-01-18
+137,Aguistin,Ascraft,aascraft3s@digg.com,40.16,462acea0-deed-429f-b7d2-ebafa783447c,V-Neck Pullover,2019-12-07
+138,Coralie,Alfonso,calfonso3t@xinhuanet.com,23.60,06f3147d-2d08-4b62-b98a-f2cca95f53a6,Fleece Jacket,2019-08-14
+139,Esmeralda,Sinott,esinott3u@google.es,38.61,37aa3a7f-faeb-4aed-b81c-183828d70aba,V-Neck Pullover,2019-12-14
+140,Dora,Whyteman,dwhyteman3v@vistaprint.com,10.36,13868856-ee51-4b3c-b8fe-5d34dea0368b,Fleece Jacket,2019-02-09
+141,Irving,Sandy,isandy3w@joomla.org,10.18,558564ed-fabe-46e3-9945-308ed963824c,Jeans,2019-06-01
+142,Margalo,Rosevear,mrosevear3x@behance.net,31.90,1ec8a379-e5d9-423f-b2c4-4eee1c74841f,Stretch Pants,2019-07-19
+143,Charmian,Gietz,cgietz3y@xing.com,83.81,d97f0158-b4b2-46c8-8602-9e46aa2b10ab,V-Neck Pullover,2019-03-01
+144,Tonnie,Clows,tclows3z@webnode.com,84.45,021d0ec1-33a1-44de-87f0-42dccaae89e9,Jeans,2019-01-12
+145,Alwyn,Hayler,ahayler40@chicagotribune.com,96.20,08e26221-fe64-4c7f-a434-4dd14193fab1,Stretch Pants,2019-06-15
+146,Parry,MacNeilage,pmacneilage41@google.it,80.56,e2dc3f0c-9f31-48bc-bdb7-d25feb4e87ac,Sneakers,2019-04-08
+147,Marnia,Summerley,msummerley42@creativecommons.org,1.33,e219962a-e74e-4567-8ba8-b04836051af5,Vest,2019-09-17
+148,Buiron,Delooze,bdelooze43@weebly.com,14.65,6e6c9edb-2c3e-430a-938c-21855d1e1beb,Sneakers,2019-08-28
+149,Berti,Cocks,bcocks44@amazonaws.com,6.65,28d28976-49b1-4188-883f-d27c21054956,Ski Coat,2019-03-18
+150,Olivier,Cluely,ocluely45@skyrock.com,62.28,d834ad07-c6ce-42cc-8942-0d658da6de65,Fleece Jacket,2019-12-23
+151,Andree,Scafe,ascafe46@chron.com,67.20,4d81ea7a-1e69-4709-ad4e-dbbdbfcc1297,Leggings,2019-03-26
+152,Jorie,Mackin,jmackin47@myspace.com,85.05,a1cb8c8a-3900-4a1a-9d4e-ed26c1c66d4f,V-Neck Pullover,2019-10-06
+153,Alyse,de Najera,adenajera48@mozilla.org,77.75,a7e2c388-5daa-40b8-9522-a5ffc83ef167,Stretch Pants,2019-03-16
+154,Wendie,Champniss,wchampniss49@cornell.edu,58.98,a5608a10-f3f4-49fc-b0fc-5916cd7fa328,Ski Coat,2019-04-14
+155,Laryssa,Galler,lgaller4a@zimbio.com,77.41,3678a6db-fad8-43c0-93ea-6c14946e2845,Sneakers,2019-11-21
+156,Darya,Veschambre,dveschambre4b@sun.com,91.86,017541b3-7147-4178-933b-3620a17e0e06,Sweater,2019-07-26
+157,Ferd,Kearley,fkearley4c@printfriendly.com,77.15,ddbf9628-0bbb-4e4d-adb0-b8ce0c5c7455,Vest,2019-05-20
+158,Marguerite,Lorens,mlorens4d@go.com,93.06,fed9f70d-b2de-486f-90bb-9438c3369ada,Fleece Jacket,2019-11-13
+159,Dario,Daniel,ddaniel4e@slashdot.org,70.99,03310605-2d6e-4b37-9c2d-5fa0f1a6a704,Stretch Pants,2019-11-21
+160,Andeee,Welsby,awelsby4f@webmd.com,34.19,db3e4a37-a57b-448d-96f1-58db0bc0e6a0,Polo Shirt,2019-12-17
+161,Heida,Brothwell,hbrothwell4g@ow.ly,13.30,6af63a6f-cb65-408e-bbef-54e40840a435,Vest,2019-08-24
+162,Dex,Chesterton,dchesterton4h@phpbb.com,28.82,3d70a376-be68-4514-9b0e-16a9a1af1042,Leggings,2019-09-14
+163,Clemmie,Cronkshaw,ccronkshaw4i@jalbum.net,56.25,505db746-ebb8-4fb7-b8dd-1c393b709efa,Vest,2019-03-03
+164,Evelina,Matyushkin,ematyushkin4j@slideshare.net,2.27,babf62b8-85db-4ad2-a0b0-60e95d65e09d,Vest,2019-04-03
+165,Angela,Cardall,acardall4k@technorati.com,18.95,69523492-8a46-4bcf-ac11-99e75eff6561,Sweater,2019-06-29
+166,Ethelda,Elacoate,eelacoate4l@cnbc.com,90.30,5d070af3-a0b3-4ecc-9208-5a2378a59d3d,V-Neck Pullover,2019-08-20
+167,Gates,Seilmann,gseilmann4m@domainmarket.com,64.95,027dc5b7-636e-4409-8530-f95fbbd937f9,Fleece Jacket,2019-02-19
+168,Rochester,Skeermor,rskeermor4n@artisteer.com,22.45,e871210e-a703-47b6-b0c1-487b3fb0bb13,V-Neck Pullover,2019-10-07
+169,Marlo,Tegeller,mtegeller4o@taobao.com,0.91,a993b2fe-9ce8-4730-9a91-b8e3074c84b1,V-Neck Pullover,2019-10-15
+170,Clarette,Duckhouse,cduckhouse4p@cnbc.com,82.82,3e117e22-9e0e-42b6-a93e-fe8ba80afcc9,Vest,2019-12-19
+171,Damaris,Vaskov,dvaskov4q@addthis.com,83.99,5a2c6ec2-bf26-422a-9df6-4d83be50bd45,Stretch Pants,2019-07-11
+172,Erastus,Slay,eslay4r@google.pl,22.16,c587e773-dfc8-4d35-9ad7-5839d39e5c76,Fleece Jacket,2019-06-30
+173,Noak,Greenrde,ngreenrde4s@vistaprint.com,91.35,00c2d4d5-c222-41bd-98dd-a82b99c12c52,Fleece Jacket,2019-09-20
+174,Damara,Clynman,dclynman4t@hatena.ne.jp,67.19,f0ddbe65-cba5-49e9-8146-c4db504befe1,Jeans,2019-01-09
+175,Federico,Davis,fdavis4u@army.mil,23.16,29f64438-6834-4dad-9cef-3831be7f2b89,Stretch Pants,2019-11-18
+176,Blaine,Honniebal,bhonniebal4v@sina.com.cn,37.03,e445100c-73aa-4ddb-9f3d-e868b6906877,Tank Top,2019-11-23
+177,Cookie,Moffett,cmoffett4w@amazon.de,92.57,7ef6316f-c12f-4e0a-8c64-1d3d8af9b8a5,Leggings,2019-08-07
+178,Rheta,Churchlow,rchurchlow4x@cisco.com,35.73,41fb5d68-8765-4732-8af4-17b56d9dc57e,Stretch Pants,2019-11-14
+179,Jo ann,Luna,jluna4y@ycombinator.com,83.09,d9cce4cd-775e-40f4-848d-5483c02a732b,Sweater,2019-09-24
+180,Irita,Gorvin,igorvin4z@cnn.com,40.57,f2833747-2d46-461c-9345-1dc41680b542,Polo Shirt,2019-01-13
+181,Tom,Slate,tslate50@flickr.com,14.94,430a433f-f511-4c32-84f8-2a5f3775ba63,Leggings,2019-07-31
+182,Andee,Boote,aboote51@lycos.com,46.41,62467322-6292-4216-b2f4-69ac430e1e74,Ski Coat,2019-09-12
+183,Dwight,Scapens,dscapens52@delicious.com,99.99,833208c8-a74f-45d7-81ed-5ec447c922b3,Leggings,2019-11-23
+184,Anita,Dolby,adolby53@latimes.com,86.67,b0a661b4-e4b3-4cbb-9158-cd41e5bd2adf,V-Neck Pullover,2019-09-23
+185,Konstantine,Askem,kaskem54@newyorker.com,90.94,d98e3213-7eb3-4855-be3c-557ad73d0569,Vest,2019-10-04
+186,Carroll,Muggach,cmuggach55@gravatar.com,21.83,877bf1e2-4581-49a1-8689-720c258d59bf,Polo Shirt,2019-08-23
+187,Nappie,Clymo,nclymo56@telegraph.co.uk,40.14,ad12507f-5574-4ab4-ab8f-f1b77c0e3684,Leggings,2019-12-09
+188,Hilliary,Hakking,hhakking57@reddit.com,75.70,c1359abc-fb76-4e6f-87d0-eb3d67a1ccb3,Sneakers,2019-09-02
+189,Monah,Rowlson,mrowlson58@google.com,45.59,48eb8906-720c-4b29-8520-195d29c4328e,Tank Top,2019-03-15
+190,Katalin,Arno,karno59@vinaora.com,70.42,4a96ccf3-4f97-4b47-868f-a4dcc273518a,Leggings,2019-08-24
+191,Thelma,Weafer,tweafer5a@ovh.net,77.34,63e700ee-bbf7-4f57-a5ef-1cad363474d4,Fleece Jacket,2019-06-08
+192,Mayne,Leggett,mleggett5b@w3.org,0.38,07ac484e-7432-49a2-94eb-15a1b51c436d,Ski Coat,2019-10-30
+193,Tarah,Corkett,tcorkett5c@ovh.net,6.05,d2f7f7b8-7e0f-4be5-aea8-6883003d3c1e,Leggings,2019-04-17
+194,Lesya,Roggeman,lroggeman5d@google.com,92.05,4ee6aca8-768d-4b4f-87b3-9dcc05ca1697,Polo Shirt,2019-03-04
+195,Tannie,MacTavish,tmactavish5e@seesaa.net,26.83,35b6d948-64b9-4ec1-a51c-ad90d505ad3f,Ski Coat,2019-10-16
+196,Calv,Bollini,cbollini5f@goo.gl,20.03,1fa065d7-9c67-4c15-8fde-9187d417231c,Stretch Pants,2019-03-21
+197,Gladi,Klosterman,gklosterman5g@twitter.com,72.08,8f24d1e6-d9fb-485e-a496-5734885989ac,Polo Shirt,2019-04-17
+198,Arie,Worssam,aworssam5h@msn.com,74.86,9fb3010a-8327-47be-8103-d678f40db67a,Stretch Pants,2019-11-22
+199,Allegra,Skim,askim5i@cloudflare.com,22.22,836c7755-a0ce-4eb6-bdba-e1faecbb7afe,Jeans,2019-03-30
+200,Randene,Barrack,rbarrack5j@tripadvisor.com,19.69,ec83a6b4-7e99-49cf-9fdd-5b186898b37c,Polo Shirt,2019-04-23
+201,Olimpia,Haugh,ohaugh5k@sciencedirect.com,64.27,6bd27cf8-d020-4f11-b6e1-c5a856e066dd,Polo Shirt,2019-04-11
+202,Carley,Cello,ccello5l@pbs.org,73.66,570374e6-c034-407d-971e-e91f215d1f19,Vest,2019-04-06
+203,Merla,McQuillen,mmcquillen5m@latimes.com,19.82,8b1043ad-77bd-4d5b-aa4b-d005073922c4,Fleece Jacket,2019-03-01
+204,Sheilakathryn,Troy,stroy5n@howstuffworks.com,92.39,6df682a1-328f-4aab-bcce-0c49f49eb5fc,V-Neck Pullover,2019-05-22
+205,Zechariah,Oventon,zoventon5o@creativecommons.org,20.51,bc3df148-6eaa-4b62-a524-8545f151e6ea,Fleece Jacket,2019-06-08
+206,Leonidas,Aloshikin,laloshikin5p@homestead.com,8.78,415a2ae3-0a54-40bd-b78d-27c915567b8a,Jeans,2019-04-03
+207,Jilleen,Ianni,jianni5q@drupal.org,39.32,6bacee7c-007c-40a3-8064-112ef6053e61,Vest,2019-03-20
+208,Christa,Tash,ctash5r@altervista.org,10.60,59cbc9dc-8a6d-4cd3-8b2f-85c73d095f90,Tank Top,2019-09-09
+209,Charity,Bogie,cbogie5s@hatena.ne.jp,43.62,6d2599a1-8cb8-4502-96a8-38b58a6846a4,Polo Shirt,2019-05-27
+210,Cosette,Grenfell,cgrenfell5t@noaa.gov,61.01,c9df7e8e-bebb-4939-a77e-4152f1278b5b,V-Neck Pullover,2019-11-15
+211,Ashbey,M'Quharge,amquharge5u@phpbb.com,88.66,9bffc658-1785-4367-9796-f40056e2d831,Polo Shirt,2019-03-05
+212,Sophronia,Sprigin,ssprigin5v@google.com.br,88.86,1a890bb9-9f1e-4d7a-91e9-7e18ce77f59b,Ski Coat,2019-04-03
+213,Duffy,Stove,dstove5w@webs.com,5.64,64dea4ef-e175-41d0-8474-ba8cbfbc0906,Tank Top,2019-04-23
+214,Dido,Dandie,ddandie5x@domainmarket.com,92.51,142ddecc-7a54-4339-9412-9dab27ce6c06,Ski Coat,2019-11-28
+215,Joaquin,Bortolazzi,jbortolazzi5y@jalbum.net,77.86,8f0a81dc-cf51-4ebe-bde6-b13f4aa5c5e4,V-Neck Pullover,2019-04-07
+216,Addy,Beakes,abeakes5z@uol.com.br,75.96,6fb8c098-ba22-4550-a5af-91e1761d26ac,Stretch Pants,2019-01-30
+217,Jo,Beel,jbeel60@constantcontact.com,70.37,10cf7fe5-db89-4d26-a3f8-af117291ecd1,Jeans,2019-07-31
+218,Ola,Meads,omeads61@4shared.com,7.33,d1d7449a-b36f-4358-8766-6803e02ded0e,Polo Shirt,2019-04-23
+219,Jerome,Cardon,jcardon62@ft.com,68.45,75147aaf-21c0-4f81-adfe-0cde0118abb6,Ski Coat,2019-02-27
+220,Lou,Portress,lportress63@mac.com,41.15,7df9e9b3-a105-4821-b80b-03306f61cac9,Ski Coat,2019-06-11
+221,Alena,Sarginson,asarginson64@time.com,56.17,6e3518f2-3600-48bc-a03f-8787b8cc2a1c,Jeans,2019-03-30
+222,Lucy,Govan,lgovan65@behance.net,8.02,f49cef1b-2d13-40aa-8d2e-3cd57c65a02c,V-Neck Pullover,2019-07-15
+223,Nell,Cooley,ncooley66@cdbaby.com,41.09,066d89ac-7635-43c7-8920-145f2d63c078,Ski Coat,2019-08-11
+224,Carline,Friett,cfriett67@comcast.net,41.79,639250b5-7298-4390-9e1b-307d2d55ae5d,Sweater,2019-01-30
+225,Poppy,Kretchmer,pkretchmer68@blogger.com,62.86,1a8abf3e-bbe9-4420-9aa4-eade4ad2076a,Sneakers,2019-06-01
+226,Hobie,Schubert,hschubert69@google.cn,46.34,213a2856-812e-43b8-be90-cee8c56b07f6,Tank Top,2019-01-15
+227,Jacques,Carik,jcarik6a@odnoklassniki.ru,0.13,63fe524b-db35-4b29-ba91-c8b9a836fb37,Fleece Jacket,2019-03-27
+228,Scot,Liptrot,sliptrot6b@ed.gov,84.36,0f271cbc-60e6-453b-adc8-05e34ea39f1a,Polo Shirt,2019-10-01
+229,Sharyl,Daout,sdaout6c@fc2.com,65.27,9bfbd8fc-5c3b-4e88-80f5-525f85cd3dde,Jeans,2019-12-11
+230,Alard,Barkaway,abarkaway6d@addthis.com,42.80,8156a60c-fa34-4e7f-873e-81828a519831,Fleece Jacket,2019-12-07
+231,Dorry,Garbutt,dgarbutt6e@wordpress.org,64.23,5a184be0-e0a3-4dae-9fe9-793c069da55c,Ski Coat,2019-02-25
+232,Ginger,Sparkwill,gsparkwill6f@printfriendly.com,85.73,ba5431a4-c6b6-41ad-aaf0-10a7037ea3a2,V-Neck Pullover,2019-03-25
+233,Staford,Winthrop,swinthrop6g@jugem.jp,36.23,5156924c-2f15-4ecf-965a-2fea22a5bc74,V-Neck Pullover,2019-07-17
+234,Nessa,Giovannetti,ngiovannetti6h@usnews.com,55.55,068ebee4-f80a-4c99-83a7-d596c42982d4,Fleece Jacket,2019-06-06
+235,Hussein,Parrington,hparrington6i@amazonaws.com,4.95,8137a090-b1e0-43e3-b11d-a41b02ecfe65,Polo Shirt,2019-08-23
+236,Gill,Nias,gnias6j@marriott.com,42.26,e46c6280-10ae-442b-9589-78f4abd60fe9,Vest,2019-11-08
+237,Yorgo,MacKeig,ymackeig6k@vinaora.com,78.73,29d8c6d4-6722-4ce6-be0e-3b9e562af593,Jeans,2019-10-27
+238,Tully,Haggett,thaggett6l@ed.gov,1.78,0cc02908-78fa-4adc-9202-525fb544d47c,Fleece Jacket,2019-02-28
+239,Maddie,Ives,mives6m@last.fm,67.70,c34a2948-fff5-456c-980f-4f987c865a3a,Stretch Pants,2019-04-05
+240,Ramonda,Mays,rmays6n@ibm.com,83.66,6d9f0355-7624-4ec2-86de-8ae312975b74,Fleece Jacket,2019-08-04
+241,Addy,Curr,acurr6o@reddit.com,9.80,be43613e-9129-4ee9-80e8-0c214c25cea5,Vest,2019-08-08
+242,Clark,Kermath,ckermath6p@sun.com,89.94,c2ab743f-a52d-436e-a933-cc1a562b4632,Tank Top,2019-03-05
+243,Lanie,Martine,lmartine6q@theatlantic.com,73.54,bb21a625-c426-4b7e-9259-469aafcbc3e6,Polo Shirt,2019-07-07
+244,Babb,Fawloe,bfawloe6r@prweb.com,33.44,44406018-47bf-40ef-9613-751f7b62d61b,Sweater,2019-12-11
+245,Harlene,Sollitt,hsollitt6s@storify.com,35.01,b511e90e-a989-49ed-936e-f286e9529286,V-Neck Pullover,2019-11-05
+246,Douglass,Kmicicki,dkmicicki6t@deviantart.com,7.65,67370dfe-9d1f-4f6e-86ca-b80c1bb84610,Sweater,2019-09-28
+247,Ingelbert,Bavidge,ibavidge6u@google.co.jp,17.11,d3ba5684-43ef-4bd0-8dbd-a7ea078ba669,V-Neck Pullover,2019-06-09
+248,Donovan,Astling,dastling6v@zdnet.com,48.28,ef426bf0-cbd6-499d-bfbb-55da1bf52d1a,V-Neck Pullover,2019-05-07
+249,Cyrill,Dayer,cdayer6w@dmoz.org,22.73,d3d913cb-ef3a-46e2-9f91-b631d01c8e13,Tank Top,2019-06-01
+250,Karry,de Castelain,kdecastelain6x@apple.com,41.76,6e2c4830-58c1-4e98-9b5c-96aad6f5e222,Vest,2019-12-17
+251,Abbi,Gentiry,agentiry6y@xrea.com,26.52,8bcb62b5-749d-40e5-a6a1-a9e4b9ede5a4,Polo Shirt,2019-03-22
+252,Kalila,Cheale,kcheale6z@xrea.com,13.38,e1ed9a28-a135-46ee-b7e1-73e72373b07b,Fleece Jacket,2019-07-01
+253,Lewiss,Havvock,lhavvock70@webnode.com,42.10,faa2c279-a00f-4623-b758-40b0c3d894f9,Jeans,2019-08-02
+254,Lauren,Haslam,lhaslam71@webs.com,66.05,e625c3f6-9b3e-446d-88a9-77a09abcec7c,Leggings,2019-12-16
+255,Alissa,Galle,agalle72@bing.com,31.11,4c747e3c-eb43-4b5d-b74b-bbcf436d325e,Sneakers,2019-07-16
+256,Hilary,Skunes,hskunes73@elegantthemes.com,28.98,a83aa013-9203-4877-aa54-c6a41392e9f8,Stretch Pants,2019-01-12
+257,Romeo,Franzonetti,rfranzonetti74@newyorker.com,42.06,d22fc9fc-ea6e-45a0-bfbf-6296faaa89e3,Stretch Pants,2019-06-13
+258,Verne,Fearnsides,vfearnsides75@a8.net,14.08,783f2792-58a4-49cb-9f66-1c08e7dc31f8,Leggings,2019-08-26
+259,Colette,O'Donnell,codonnell76@va.gov,7.18,ecedf94d-2599-412a-8258-49f3dd66b655,Ski Coat,2019-09-12
+260,Matthiew,Sieghard,msieghard77@purevolume.com,64.48,aa8db1f0-de48-462e-a090-07ed6a7464ea,Vest,2019-03-14
+261,Juana,Errett,jerrett78@ucsd.edu,98.57,2a1ee5ef-f944-4cf4-8779-194e172d9b7a,Leggings,2019-07-13
+262,Minni,Allain,mallain79@w3.org,55.71,98393857-e16b-4267-b68a-236ea14570ff,Fleece Jacket,2019-03-22
+263,Neely,Dalgliesh,ndalgliesh7a@rambler.ru,86.94,00529d93-4e59-4dfe-8012-0d539b7651d0,Jeans,2019-06-24
+264,Luther,Toope,ltoope7b@facebook.com,41.05,bb5a40c6-0540-448d-97a0-b005821f33f7,Jeans,2019-09-17
+265,Tuesday,Chaster,tchaster7c@i2i.jp,77.58,3fcd0eb4-b2d0-484f-a8f2-84a28d4667c1,Tank Top,2019-11-19
+266,Oates,Pindar,opindar7d@last.fm,68.66,ce4c9568-e272-438f-ade2-fd00095696d9,Ski Coat,2019-04-11
+267,Louisette,Durrell,ldurrell7e@privacy.gov.au,22.82,7b743d35-249c-4db0-959a-11239166d7ba,Ski Coat,2019-01-21
+268,Alvira,Bywaters,abywaters7f@blogtalkradio.com,69.45,9f3329a5-fd4b-4e2d-b850-33444b910882,Vest,2019-06-14
+269,Brian,Sloley,bsloley7g@princeton.edu,38.74,e546f1ac-4a4e-471c-a9f5-e49f5e7b9f19,Leggings,2019-01-12
+270,Blythe,Kippie,bkippie7h@aol.com,6.31,1b56dcc1-6936-49bb-b8af-a8c25c803491,Fleece Jacket,2019-05-26
+271,Colver,MacGarrity,cmacgarrity7i@tripod.com,9.50,6aab8177-309b-4065-a426-29b0e73c41e1,Jeans,2019-08-29
+272,Cindelyn,Frangione,cfrangione7j@guardian.co.uk,4.31,6b17bbeb-0297-4788-b3c8-3c169ef505df,Leggings,2019-01-17
+273,Noland,Mirams,nmirams7k@abc.net.au,74.97,8cad9f17-0bb1-44c1-a0dd-8d29b2f2bb96,Sneakers,2019-07-20
+274,Bertrando,Phillpotts,bphillpotts7l@dagondesign.com,22.34,3439f55f-767b-4536-9f73-9a6f00c140c2,Vest,2019-05-15
+275,Vasilis,Dacke,vdacke7m@netscape.com,5.13,225cd70e-f29d-4c58-8fb8-c86fcfecc0d4,Fleece Jacket,2019-02-25
+276,Regan,Lanchester,rlanchester7n@usa.gov,11.95,30f9df9a-f515-4579-8e83-98bc90e3ba32,Fleece Jacket,2019-04-22
+277,Frasier,Vaun,fvaun7o@pen.io,95.69,7e3859c8-d549-4c81-9edb-cb322610e8fc,Vest,2019-07-01
+278,Lorine,Scrogges,lscrogges7p@google.com.hk,79.59,e812fb79-ea75-4c2d-9d47-8aebd96e8dc1,Vest,2019-07-10
+279,Ettore,Coveney,ecoveney7q@msn.com,14.85,45fc5566-6d62-4cb1-ae3c-12e259a97442,Sneakers,2019-02-27
+280,Rena,Northcote,rnorthcote7r@wordpress.com,34.51,c14e2416-e625-448f-ba08-e9c95f23d95c,Jeans,2019-10-26
+281,Angel,Legh,alegh7s@noaa.gov,17.77,c9a73150-5c4a-4000-98b5-968884452b11,V-Neck Pullover,2019-10-14
+282,Marcelline,Merrell,mmerrell7t@tripod.com,87.43,7743f7f8-1c45-46a4-809b-3284366a971c,Sweater,2019-09-17
+283,Christabella,Vaneschi,cvaneschi7u@prlog.org,95.42,81900c28-e158-41b1-b157-49b6de5fb338,V-Neck Pullover,2019-03-01
+284,Hi,Lorrimer,hlorrimer7v@wikimedia.org,10.45,76888648-b74e-4224-80d2-75a5f38ac6aa,Tank Top,2019-11-25
+285,Hurley,Dalrymple,hdalrymple7w@amazon.co.uk,29.17,ebcafdc2-75f8-4dac-a104-bfd7de5235f7,Vest,2019-11-08
+286,Jory,Radenhurst,jradenhurst7x@i2i.jp,79.04,d30c0c68-b1cd-4dfc-a0ec-6dd0f4e8fa78,Sneakers,2019-11-04
+287,Morgen,Toma,mtoma7y@addthis.com,21.84,bd147667-f24f-4119-8aa5-a8e795dbf5f2,Tank Top,2019-09-17
+288,Chastity,von Hagt,cvonhagt7z@soup.io,89.90,661c6e9b-bd6a-4ec9-8d01-37cd1e6a2d5a,Sweater,2019-02-08
+289,Karney,O'Fogarty,kofogarty80@salon.com,97.75,e706291f-c333-48b2-8619-a7384ef9e1e1,Sneakers,2019-04-19
+290,Brittany,Harston,bharston81@pagesperso-orange.fr,69.27,05437cfc-90a0-48a5-90f6-3c4e832c6256,Leggings,2019-12-04
+291,Betsey,Beagin,bbeagin82@wikia.com,62.94,03a5f21d-5f7e-4bac-abd1-f3229700917c,V-Neck Pullover,2019-04-27
+292,Merna,Voaden,mvoaden83@theguardian.com,48.15,d4434061-b245-47eb-8d25-edc061a525fb,Tank Top,2019-01-06
+293,Phyllys,Brittoner,pbrittoner84@newyorker.com,54.63,6b322d05-64a3-4c62-9f87-3d7eb877bbc6,Leggings,2019-12-22
+294,Jamey,Hanne,jhanne85@sfgate.com,39.93,4555556c-e8a0-450a-9cd8-14582957c30f,Ski Coat,2019-03-18
+295,Padraic,Januszewicz,pjanuszewicz86@photobucket.com,76.26,a0c09e1c-fdff-4aea-a77c-4f0117e8fd66,Ski Coat,2019-08-31
+296,Rowen,Sweatman,rsweatman87@creativecommons.org,40.69,fd4737bf-8475-478e-9cc9-22f4d4efb844,Jeans,2019-03-14
+297,Pepillo,Cargen,pcargen88@businessinsider.com,7.96,5ce2b679-ca2e-4c7a-ba73-bf781ea23f9e,Sneakers,2019-11-15
+298,Ellene,Reast,ereast89@bing.com,47.86,abd69c63-de21-4fc2-bd9d-1de0b86c7da1,Tank Top,2019-07-08
+299,Louisa,Keep,lkeep8a@dailymotion.com,79.65,4a8192ac-16bc-447c-8580-cb4a554dfc66,Sweater,2019-09-26
+300,Addi,Molfino,amolfino8b@soundcloud.com,23.07,dce352ea-729a-4c14-aaff-1ea167829244,Leggings,2019-04-17
+301,Deva,Colby,dcolby8c@squidoo.com,78.95,39861259-f4e2-44da-8599-415c6b13665f,V-Neck Pullover,2019-04-02
+302,Charlena,Dearing,cdearing8d@plala.or.jp,33.70,aaf0b559-c979-40ee-a80b-68a017656d04,Polo Shirt,2019-04-01
+303,Alexa,Alchin,aalchin8e@statcounter.com,65.33,25ee13a0-6cf0-4285-bf61-e4b9b3e45503,Sneakers,2019-09-03
+304,Sheena,Hedin,shedin8f@live.com,92.55,293a8e99-67f4-4199-bb79-607507c1e00b,Sneakers,2019-09-10
+305,Arliene,Liveing,aliveing8g@slideshare.net,49.22,da239229-e1f7-48d3-84d5-981598fd0906,Polo Shirt,2019-10-15
+306,Gerti,Osgodby,gosgodby8h@sakura.ne.jp,66.52,8b0b5f84-da56-494d-804d-b4b015bb27ad,Sneakers,2019-06-07
+307,Dario,Edmed,dedmed8i@storify.com,64.24,99a1218c-9073-4266-a346-afba6f832d39,Sweater,2019-06-26
+308,Nerte,Hammatt,nhammatt8j@berkeley.edu,42.53,8ac40065-5fc5-4bad-b705-5a81a01ea637,Fleece Jacket,2019-07-25
+309,Kissee,Hazeman,khazeman8k@uiuc.edu,67.76,6fcd6e4d-55e4-4b70-996a-6dd33f8c241f,Jeans,2019-05-08
+310,Phyllis,Haskett,phaskett8l@intel.com,72.26,24e4550f-9d7d-40a4-b0a7-2a7d9915dc0d,Ski Coat,2019-02-11
+311,Garrard,Castanyer,gcastanyer8m@telegraph.co.uk,28.28,5bb84540-c2ce-4282-bfd8-83bd3804e938,Sweater,2019-05-19
+312,Michael,Baumert,mbaumert8n@mapquest.com,92.53,49be09ee-dac4-425f-8715-6f04b564a57a,V-Neck Pullover,2019-03-12
+313,Artur,McGahy,amcgahy8o@comsenz.com,20.02,a14537c5-481c-410f-8dff-90003c050db4,Sneakers,2019-01-12
+314,Phylis,Chartre,pchartre8p@hexun.com,65.56,37dc2d2d-dc80-40af-9b15-4efe3df322c7,V-Neck Pullover,2019-12-19
+315,Alica,Frayne,afrayne8q@shop-pro.jp,28.15,592bb9bd-7544-4ce6-9398-963f2b06ea9a,Polo Shirt,2019-04-30
+316,Orton,Dennick,odennick8r@mlb.com,90.60,378ffd91-00ff-4fdc-a894-bbd6af32a8ab,Sweater,2019-04-13
+317,Kellen,Hellings,khellings8s@histats.com,88.66,0bc77855-80fd-47ba-aab6-c0b87e130f08,Leggings,2019-04-17
+318,Denyse,Lothlorien,dlothlorien8t@marketwatch.com,41.03,fd2c9a79-3e2f-4463-9336-def8f506b2c7,Stretch Pants,2019-07-11
+319,Chico,Lancaster,clancaster8u@nationalgeographic.com,77.55,2fd8cf99-8a85-4e62-b1e5-8a880ea14d7a,Sweater,2019-01-16
+320,Sallee,Hargreves,shargreves8v@cargocollective.com,45.84,1b48d834-aef0-452c-9fa9-716c3ad4dc30,Polo Shirt,2019-04-25
+321,Lindsey,Dykas,ldykas8w@squidoo.com,36.11,42c57a35-8126-4d34-9f83-aba282c4c1e2,Stretch Pants,2019-01-16
+322,Kristos,Favela,kfavela8x@cisco.com,69.74,ba55d6da-94a3-4bc9-85a8-dadaa54d238e,Stretch Pants,2019-06-05
+323,Lyman,Livingston,llivingston8y@drupal.org,88.24,a87ac574-1dbc-4201-bebd-2e1c64d086c6,Jeans,2019-09-04
+324,Mufi,Trowsdall,mtrowsdall8z@cisco.com,96.22,8582732a-dbd1-485c-8aa0-fbbc15de3e20,Tank Top,2019-02-26
+325,Marrissa,Lumsdaine,mlumsdaine90@imageshack.us,3.29,c1cf8857-535c-468f-8708-4c37045af455,Tank Top,2019-10-02
+326,Christina,Jeram,cjeram91@blogspot.com,5.33,350cde2a-2471-4337-9929-129bf60a767d,Vest,2019-11-06
+327,Maiga,Downage,mdownage92@blogger.com,31.51,060493c1-1d37-4f45-985c-a73c14c0cde9,Fleece Jacket,2019-02-04
+328,Arlina,Iffland,aiffland93@ovh.net,81.53,23b0b748-471c-419a-8a37-64910421bac6,Polo Shirt,2019-08-14
+329,Rori,Mocher,rmocher94@ucoz.com,63.03,576326e1-c300-4415-9ffd-e8323840b3a3,Vest,2019-11-22
+330,Gabriello,Trenbay,gtrenbay95@bloglines.com,96.71,0a4f40dc-b4ae-442b-afb4-a86a21a2f469,Stretch Pants,2019-05-17
+331,Cointon,Stanier,cstanier96@bbc.co.uk,0.39,b68a284d-def3-4229-a9e4-fcf43db72b56,Ski Coat,2019-10-31
+332,Wain,Piddlesden,wpiddlesden97@soup.io,87.74,9a9228ab-3596-4ec4-a7f8-dace572185c3,Sneakers,2019-06-16
+333,Adrian,Earngy,aearngy98@technorati.com,21.92,297a5a88-fb96-4d84-8015-061aaeb68510,V-Neck Pullover,2019-06-01
+334,Amalia,Caurah,acaurah99@constantcontact.com,25.67,9058e91f-cedd-4b4b-9d0e-fcbb91bcb514,V-Neck Pullover,2019-08-11
+335,Lilith,Mellmer,lmellmer9a@theatlantic.com,34.61,ff0bee62-4c4a-4964-9f17-53c13a6e7f29,Ski Coat,2019-09-10
+336,Johannes,Corzor,jcorzor9b@stanford.edu,54.25,fc90c2dd-1987-4e2c-a958-0b0ce1f8f5b9,Stretch Pants,2019-02-01
+337,Teri,Rait,trait9c@omniture.com,23.34,ac9a8e64-8009-4d58-81f9-45253b73c679,V-Neck Pullover,2019-03-28
+338,Donelle,Dickenson,ddickenson9d@google.es,85.80,94b9c054-02ae-477b-b6ab-9667b79226f0,Jeans,2019-09-13
+339,Diahann,Faro,dfaro9e@chicagotribune.com,35.48,d86720fc-3008-4eaa-a886-9ac9855998b2,Leggings,2019-07-13
+340,Shanna,Grunnill,sgrunnill9f@chron.com,88.24,dadbb019-a681-4a33-bbf2-830d6192cd60,Sneakers,2019-12-13
+341,Ethelda,Dickerline,edickerline9g@blogspot.com,55.83,99cea064-ad65-42ee-80e7-224d30dd26dc,Vest,2019-11-30
+342,Mollie,Sheen,msheen9h@sphinn.com,81.21,28c667fd-6cc8-47a8-a957-5333c6bb43e3,Ski Coat,2019-12-29
+343,Trevor,Walshe,twalshe9i@360.cn,78.37,843be1bb-f838-452c-a12a-67fa8b1f6ae3,Vest,2019-05-15
+344,Marillin,Bussetti,mbussetti9j@wordpress.com,58.51,958cd3af-b349-4c6f-902c-dea4b7edb5c6,Jeans,2019-08-28
+345,Enos,Loins,eloins9k@yelp.com,32.40,0ab1beeb-c66e-40ca-8dde-940eb03d248a,Jeans,2019-03-24
+346,Bax,Phillot,bphillot9l@yolasite.com,26.01,84d2ec49-ce4a-4d43-a3e0-bbf1a477689e,Stretch Pants,2019-02-16
+347,Hartwell,D'Cruze,hdcruze9m@omniture.com,71.13,ccfaf86e-4076-416c-a7aa-2e1751344c05,Sweater,2019-11-13
+348,Randell,Colbourn,rcolbourn9n@usatoday.com,1.16,c18e35c5-8024-465a-a559-c457890fb075,Vest,2019-09-22
+349,Cchaddie,Whight,cwhight9o@ifeng.com,70.16,de235cd3-8a63-4c23-a61d-f48200c36e03,Fleece Jacket,2019-03-04
+350,Estell,Jakaway,ejakaway9p@gnu.org,86.11,6de5e326-d90a-493e-a0c8-6cdcd2ca6b83,Fleece Jacket,2019-05-26
+351,Frederick,Papen,fpapen9q@sitemeter.com,73.68,96420a56-6c7a-4dc7-b7fc-1d64784c4180,Fleece Jacket,2019-11-13
+352,Sylvan,Petrichat,spetrichat9r@ft.com,52.95,1d7ff80d-5a96-45ef-8486-c4de00e00763,Sneakers,2019-08-22
+353,Crissie,Dugald,cdugald9s@elegantthemes.com,18.55,89603626-4271-4636-a1a4-681a078c087f,Jeans,2019-02-15
+354,Ash,Beakes,abeakes9t@webmd.com,43.51,c6155f43-e004-4639-a117-af6dae79e893,Stretch Pants,2019-07-21
+355,Xenia,Robottom,xrobottom9u@ocn.ne.jp,6.42,5dc2f2d2-2d56-42fc-8ac7-f220a9470652,Stretch Pants,2019-05-15
+356,Kacey,Haddleton,khaddleton9v@wsj.com,20.51,c0db297b-c7db-4d73-afe6-a4c53e8c78be,Sneakers,2019-10-24
+357,Constantina,Buckbee,cbuckbee9w@rediff.com,93.80,56d62336-fc12-49f3-a2f0-8bf6f1ee9a1d,Polo Shirt,2019-06-10
+358,Randa,Honywill,rhonywill9x@youku.com,59.59,74401638-d8c1-49e9-8ec5-a04a71c3510f,Sweater,2019-11-03
+359,Randal,Strettell,rstrettell9y@printfriendly.com,94.35,7fa63cf2-29e4-4346-a9f6-b3e57fd75312,Stretch Pants,2019-01-19
+360,Jacenta,Clewer,jclewer9z@php.net,71.80,3a981367-6def-45d7-9d93-8facddf7d38b,Leggings,2019-11-09
+361,Isac,D'eye,ideyea0@shareasale.com,17.21,74055d58-0075-4da2-ac06-0a3b8333f3f7,Vest,2019-06-18
+362,Lyda,Alcide,lalcidea1@seesaa.net,57.28,52225dba-e427-48df-8cb8-25fb33473e5a,Vest,2019-04-15
+363,Lisabeth,Arnholz,larnholza2@apple.com,89.75,baec0037-3c87-4b04-982c-b38c970c7b24,Polo Shirt,2019-05-27
+364,Daisey,Bilston,dbilstona3@wikimedia.org,83.62,887ff294-aed0-4bda-860a-93624a525828,Polo Shirt,2019-10-09
+365,Fara,Du Plantier,fduplantiera4@craigslist.org,11.83,341f56ad-a5d4-4879-9229-7bd271b9a6bb,Ski Coat,2020-01-03
+366,Emmye,Sillars,esillarsa5@ftc.gov,80.55,9d0068a0-6cac-4e4f-99fc-df144b279fb8,Jeans,2019-01-14
+367,Dion,De Fraine,ddefrainea6@pinterest.com,5.55,9b3bd77f-87c5-458d-b813-7e429657de32,Sneakers,2019-10-22
+368,Lev,Coplestone,lcoplestonea7@zdnet.com,35.20,2098d4e8-3eb1-46dc-976c-9a2588b9ee30,Polo Shirt,2019-05-25
+369,Annaliese,Navarijo,anavarijoa8@mysql.com,97.16,cea24fee-6d6d-49d6-808f-d9ddc019ff38,V-Neck Pullover,2019-01-14
+370,Calvin,Bails,cbailsa9@blogger.com,73.20,47f05fc4-deda-4ccb-bd18-a9e01439faca,V-Neck Pullover,2019-07-25
+371,Chalmers,Clemence,cclemenceaa@comcast.net,73.76,40a4167a-7eb2-43e8-8170-5ed339c79069,Ski Coat,2019-11-21
+372,Aldridge,Binham,abinhamab@vinaora.com,70.13,15b1ae2b-d7dd-4950-acd0-3bc977445aa3,Leggings,2019-07-18
+373,Richart,Djurevic,rdjurevicac@unblog.fr,55.03,ec71fdc5-2add-4736-910e-7fd36021eaab,Polo Shirt,2019-01-28
+374,Candida,MacKessock,cmackessockad@google.ca,93.19,2e60077d-0847-4ac9-b205-f12c3b477e2d,Sweater,2019-02-06
+375,Devonne,Walford,dwalfordae@ft.com,47.06,2d40ac24-c596-45a5-b3ab-abea436d343d,V-Neck Pullover,2019-09-02
+376,Antonia,Fesby,afesbyaf@goo.ne.jp,6.93,25936935-ad7f-4ab6-b061-4fb231ed0db7,Jeans,2019-03-22
+377,Michaella,Pack,mpackag@hubpages.com,10.67,89d24f9f-b59f-4cdf-8bb2-fd9b7f470244,Jeans,2019-02-02
+378,Heida,Claussen,hclaussenah@amazon.de,97.43,dd174c7d-5294-40c7-8342-f9915570daf0,Stretch Pants,2019-11-17
+379,Karla,Crab,kcrabai@i2i.jp,50.85,fd69df52-33b8-4a61-ab2e-30634beafbca,Jeans,2019-06-22
+380,Florence,Frisby,ffrisbyaj@phoca.cz,34.67,5ad144c2-1627-4961-a679-ff6894050514,Leggings,2019-03-03
+381,Chet,Kalker,ckalkerak@unicef.org,53.99,eb2e4ac1-ac13-4146-ac85-df6497ee7744,V-Neck Pullover,2019-04-29
+382,Herve,Castell,hcastellal@vinaora.com,53.18,b5b1fd51-d950-45f4-b1cf-04dd0376e89e,Jeans,2019-07-20
+383,Fielding,Thorndycraft,fthorndycraftam@google.es,78.67,bb78d91b-12a0-4dc2-949a-3688d61a4641,Sweater,2019-03-16
+384,Pietrek,Randlesome,prandlesomean@canalblog.com,2.29,83df5b07-7b4b-4718-b2f8-f5bff058b583,V-Neck Pullover,2019-04-28
+385,Kathryne,Wannell,kwannellao@archive.org,87.41,90650ad3-d4d4-4fb6-a24c-d3aa3735fa28,V-Neck Pullover,2019-08-12
+386,Garnet,Hawkey,ghawkeyap@cbc.ca,44.53,bbcaf2ee-b663-48da-a143-5e2bcacb8c80,Stretch Pants,2019-05-27
+387,Gabbie,Roffey,groffeyaq@marriott.com,9.54,fe4e7b27-c7f1-4358-9491-97b28f31eccf,Vest,2019-09-13
+388,Titus,Dalyell,tdalyellar@state.gov,71.45,150e2229-b37d-44cc-9265-f62319034bb4,Tank Top,2019-09-01
+389,Broderic,Eakins,beakinsas@feedburner.com,36.94,fbebee1d-2361-4f30-8dc4-42cb529f339e,Ski Coat,2019-12-16
+390,Dorelia,Georgi,dgeorgiat@reddit.com,52.21,f021d043-9be1-432c-9206-ca93fb46a55c,Leggings,2019-12-08
+391,Flo,Muttock,fmuttockau@homestead.com,8.60,ce934249-4b02-46f7-b44e-ec358718d9a0,Tank Top,2019-11-20
+392,Estrella,Skydall,eskydallav@jalbum.net,39.40,1cec5cef-1992-42e2-82f6-8a9249e0daea,Stretch Pants,2019-09-09
+393,Gibb,Ratley,gratleyaw@nymag.com,5.55,45f0a787-7ada-43c8-aff8-dc3c4c2581b6,Stretch Pants,2019-03-15
+394,Cinda,Gammack,cgammackax@bbc.co.uk,98.36,714059d0-e0d0-444e-b526-57b90f74153c,Sneakers,2019-06-09
+395,Charita,Robker,crobkeray@ycombinator.com,16.39,059c7bdb-a959-4cf5-8d1f-01475e55e6d1,Ski Coat,2019-11-08
+396,Fawne,Dundredge,fdundredgeaz@zdnet.com,97.95,8c55064d-9d73-4ea2-aafb-4b7315c88333,Sneakers,2019-01-26
+397,Ainsley,Taggert,ataggertb0@4shared.com,79.68,1774ab48-6178-449d-8f73-3a784c6cf349,Stretch Pants,2019-01-23
+398,Gunter,Fullegar,gfullegarb1@hhs.gov,38.41,fd8b37f1-4924-4461-8f9e-79d7dcfdc835,Tank Top,2019-03-24
+399,Morgen,Haresign,mharesignb2@google.com.au,4.24,6dbc65f1-71f9-44b2-861c-de4b55834fc1,Jeans,2019-03-25
+400,Andrey,Ciobutaru,aciobutarub3@ucla.edu,33.87,4595e077-ef6a-45ef-a92e-e58690353ceb,Stretch Pants,2019-12-21
+401,Even,Witts,ewittsb4@4shared.com,52.23,a44977a3-3941-4c23-982b-1e6228189f59,Leggings,2020-01-02
+402,Hatti,Pane,hpaneb5@devhub.com,17.55,d640eaff-feea-4f55-9cc6-6c39a485b72e,Leggings,2019-12-21
+403,Noll,Dimberline,ndimberlineb6@uol.com.br,27.47,81ac87db-248e-4d59-b6dc-e06d3b906beb,Stretch Pants,2019-10-16
+404,Anjela,Offiler,aoffilerb7@fc2.com,72.54,0491d20b-0364-47b9-ba19-e9edae1b1ded,Vest,2019-02-20
+405,Marina,Nutt,mnuttb8@yahoo.co.jp,83.18,bf77bd08-6441-48c3-bf47-9234a40b81ee,V-Neck Pullover,2019-10-02
+406,Gilemette,Hearon,ghearonb9@reddit.com,25.92,a16f6de8-68dc-4eb2-85b2-c5084c80373b,Sneakers,2019-09-12
+407,Fara,Leyman,fleymanba@live.com,13.83,4f284a29-365b-4eca-a9b1-80e2e70483e9,Fleece Jacket,2019-11-22
+408,Leah,Swigg,lswiggbb@ezinearticles.com,32.24,f652700b-52ef-4836-b882-c2ad3a153d9f,Sneakers,2019-09-09
+409,Dugald,Binny,dbinnybc@icio.us,82.49,e75e0a7d-093e-4034-b3d6-98819c48c2d3,Polo Shirt,2019-06-12
+410,Solly,Pirson,spirsonbd@i2i.jp,44.99,a7b538fb-317a-4759-be46-3cc95851401f,Vest,2019-12-22
+411,Tomas,Overill,toverillbe@storify.com,30.04,4f01c7ea-23da-4179-b6d5-f76f899129e3,Vest,2019-07-13
+412,Kimmy,Playfair,kplayfairbf@netvibes.com,90.10,f406b205-ba04-4ec6-bc41-d4e15f2ac966,Sneakers,2019-06-27
+413,Venus,Kobke,vkobkebg@bloomberg.com,67.74,1afe635a-9aff-444a-ab27-f39413453948,Polo Shirt,2019-11-18
+414,Stinky,Sturm,ssturmbh@guardian.co.uk,64.89,70bf5dde-3e8e-447a-ab14-aa09aff23240,Jeans,2019-06-12
+415,Louisa,Chaperlin,lchaperlinbi@comcast.net,22.89,f04b6752-9288-4504-9eb6-5c3884234dfb,V-Neck Pullover,2019-05-11
+416,Aurora,Szantho,aszanthobj@china.com.cn,31.13,f80b6347-314d-41f4-9e53-6cb5f0a1b538,Stretch Pants,2019-04-29
+417,Maressa,Meiklam,mmeiklambk@tripadvisor.com,30.45,d5a2b634-a711-4a3d-b402-b80a84065187,Vest,2019-01-20
+418,Aldridge,Stovine,astovinebl@time.com,26.74,60546194-abd7-4b41-8de6-8ff9ed7948e9,Jeans,2019-12-18
+419,Averell,Durant,adurantbm@multiply.com,76.29,9d27cd5c-b196-4f66-af8d-66da4ea572d7,Polo Shirt,2019-06-04
+420,Waly,Emnoney,wemnoneybn@github.com,65.75,2cfe5504-439e-4369-abb4-2e1421651158,Tank Top,2019-12-23
+421,Bail,Milan,bmilanbo@arizona.edu,62.74,3005d067-d5b8-46c9-9378-afedac760c31,Tank Top,2019-01-30
+422,Tonia,Paur,tpaurbp@rediff.com,5.55,283bb928-09d1-4050-8be5-94227d55a172,V-Neck Pullover,2019-12-01
+423,Mikey,Hutcheons,mhutcheonsbq@unblog.fr,52.14,4c89e64b-cc63-43cc-a388-841d6433e490,Polo Shirt,2019-11-17
+424,Brander,Lafrentz,blafrentzbr@qq.com,82.20,3c3f54fd-2279-4a67-82c4-f9344fc9e9ac,V-Neck Pullover,2019-04-24
+425,Justen,Lyon,jlyonbs@360.cn,9.70,036a7889-a0f8-4710-b02e-50282a06a3fd,Tank Top,2019-05-06
+426,Dennet,Toseland,dtoselandbt@unblog.fr,15.31,30a0171a-a902-4fe1-8c9b-0db05d636530,Stretch Pants,2019-08-08
+427,Emery,Dobrowlski,edobrowlskibu@istockphoto.com,33.83,7bb55c9b-f528-4952-a268-f01d88c05830,Ski Coat,2019-08-14
+428,Truda,Gionettitti,tgionettittibv@github.io,84.41,c503fb59-7878-434a-9eec-8e157849ef1f,Fleece Jacket,2019-11-30
+429,Sergio,Chazelas,schazelasbw@unicef.org,68.01,6d5694c9-27e9-4898-84ea-6267c7f5b201,Ski Coat,2019-04-13
+430,Dominica,Cursons,dcursonsbx@posterous.com,19.42,21ce2871-e647-43a1-a72f-6305c4cdd687,V-Neck Pullover,2019-10-28
+431,Corbett,Cathrall,ccathrallby@ifeng.com,5.39,d221daaa-572d-4917-afa6-23b28d6724dc,Fleece Jacket,2019-06-13
+432,Rolph,Stucke,rstuckebz@springer.com,92.07,9779f58a-4b02-405f-9ef9-b9886d0fd6bb,Stretch Pants,2019-03-08
+433,Harriot,Romagnosi,hromagnosic0@google.es,94.12,a56cfce5-6e60-4729-8280-4844808ca172,Sweater,2019-07-10
+434,Darda,Cawt,dcawtc1@issuu.com,68.82,4c59a300-c5dc-4b75-a9df-1122bc95bc6f,Jeans,2019-11-21
+435,Wendeline,McLeoid,wmcleoidc2@cnbc.com,27.13,8c592bff-7830-47e6-a4bd-4c3d7da0107b,Polo Shirt,2019-05-20
+436,Merrili,Gofforth,mgofforthc3@ocn.ne.jp,7.45,70fcb9e7-91d5-4c0c-835e-deb2306e9338,Tank Top,2019-12-31
+437,Tammara,Emma,temmac4@howstuffworks.com,91.36,a7b8a75e-187d-406e-96ff-c81834378a7d,Vest,2019-01-29
+438,Ilka,Abrahmson,iabrahmsonc5@wisc.edu,45.52,ec685387-d7e2-4203-8695-9c74eb32b335,Ski Coat,2019-06-27
+439,Stacie,Seiller,sseillerc6@themeforest.net,49.14,e1d16db0-dc74-4d8f-a115-301447c5412b,Leggings,2019-08-25
+440,Zandra,Honeyghan,zhoneyghanc7@shinystat.com,64.36,bbd12749-9ae4-4a5f-9dd5-42232016904c,Tank Top,2019-10-07
+441,Kaye,Tregien,ktregienc8@google.co.uk,46.77,a1cbe1b0-831a-49e8-97af-a3f8f36a8e89,Vest,2019-04-22
+442,Ethelred,Brosetti,ebrosettic9@examiner.com,50.62,309a5429-e815-46ca-a4f2-a304c452c350,Stretch Pants,2019-01-09
+443,Marchall,Lilleycrop,mlilleycropca@de.vu,9.84,2eaeb840-3a64-41c7-97b3-b964cc2ca04d,Stretch Pants,2019-06-08
+444,Michele,Geockle,mgeocklecb@timesonline.co.uk,84.61,2a5bf0c3-c8d0-4507-a9b5-0f8c80743a06,Polo Shirt,2019-12-30
+445,Sybille,Cast,scastcc@sciencedaily.com,81.93,e341bd97-eea4-462d-9b8a-a91451470f33,Jeans,2019-10-18
+446,Guglielma,Bowsher,gbowshercd@discuz.net,27.63,ed730e41-3140-4b0a-aa89-0be69123278a,V-Neck Pullover,2019-01-16
+447,Grete,Rominov,grominovce@github.com,20.81,0dc8cda4-fa6f-40b1-b363-989b0efdd93e,Polo Shirt,2019-02-23
+448,Frazer,Walstow,fwalstowcf@over-blog.com,28.70,cb6f9524-81a2-4797-af48-d02eda25bab0,Leggings,2019-01-04
+449,Georg,Withinshaw,gwithinshawcg@wired.com,74.46,6c77fa6f-1c66-480b-8a2e-e1b94002720b,Vest,2019-08-22
+450,Frants,Smithend,fsmithendch@narod.ru,27.34,1a2a7d21-1810-4c58-8e7f-44e366030b93,V-Neck Pullover,2019-12-24
+451,Kizzie,Swindells,kswindellsci@ovh.net,56.41,0816baed-1b54-4f6d-89d3-fb2f3973f0b9,Vest,2019-08-12
+452,Duky,Verralls,dverrallscj@elegantthemes.com,76.50,1239b121-7b19-43ce-b86c-6c20635be076,V-Neck Pullover,2019-07-10
+453,Demetris,Chasles,dchaslesck@prnewswire.com,21.47,649a303f-77b8-4fd8-be12-7a0293bd8b27,Sneakers,2019-01-29
+454,Rog,Tukely,rtukelycl@seattletimes.com,62.12,453ea756-d1b6-4636-b60f-461230d7ecca,Leggings,2019-03-15
+455,Mariejeanne,Pigdon,mpigdoncm@twitter.com,2.13,1ca8ccca-8758-481d-9bd0-fd6662a59538,Vest,2019-10-25
+456,Celle,Donald,cdonaldcn@fc2.com,55.45,1d1ead2c-52a4-488c-99b0-ff91d5ca6e8e,V-Neck Pullover,2019-11-09
+457,Ulrica,Chung,uchungco@senate.gov,39.90,978f2d69-7f32-4e4d-9f09-97cf0c4370a4,Stretch Pants,2019-07-11
+458,Skippy,Tithacott,stithacottcp@accuweather.com,80.00,b8510e69-0fc5-43ac-83ff-8d19a2419b8d,Sweater,2019-08-05
+459,Ann-marie,Andress,aandresscq@posterous.com,83.68,4a8855e1-fb13-46ac-b7bb-68a72f4d8dd5,Ski Coat,2019-05-18
+460,Cory,Hargey,chargeycr@cyberchimps.com,37.53,b60c7d23-4e2b-437a-9d08-4c4b7bcd4836,Fleece Jacket,2019-01-19
+461,Umberto,Hogben,uhogbencs@kickstarter.com,36.47,1fd0e871-132b-4371-acd6-7b1ddd70fe8c,Jeans,2019-04-04
+462,Gabriela,Perryman,gperrymanct@elegantthemes.com,65.79,67611bb8-59ae-49ce-8160-c5ab636447ff,Vest,2019-01-09
+463,Clio,Ledram,cledramcu@smh.com.au,45.50,6c25b086-4702-4653-aacd-d1c61accdd85,Ski Coat,2019-05-22
+464,Monro,Best,mbestcv@creativecommons.org,9.85,603c210c-a3cd-40b6-a954-3b4512d25f47,Tank Top,2019-06-25
+465,Catherin,Lorens,clorenscw@symantec.com,30.36,82885d6b-25d3-49aa-98b3-daad2222fa72,Sneakers,2019-10-28
+466,Eula,Lyptrade,elyptradecx@unc.edu,3.35,89a590d4-f394-44bd-8c27-f855317b3ecc,Vest,2019-09-27
+467,Hasty,Turville,hturvillecy@photobucket.com,68.92,7acf7ec6-9658-4b83-8439-86b6545b9d25,V-Neck Pullover,2019-07-03
+468,Leisha,Caltera,lcalteracz@vimeo.com,56.30,72caee1b-e572-4b58-bf14-b693d2998dc3,Leggings,2019-09-30
+469,Ev,Mc Ilwrick,emcilwrickd0@oakley.com,34.87,dfc20da6-20a9-45a2-a396-5b354bda6fcf,Vest,2019-02-03
+470,Elizabet,Tettersell,etetterselld1@narod.ru,6.52,be72c6c8-baa1-4469-a324-bb5736151322,Stretch Pants,2019-07-24
+471,Christiano,Wraight,cwraightd2@wunderground.com,65.43,a2b05acf-58b3-4eb6-962d-91ffdf798f50,Polo Shirt,2019-07-20
+472,Lottie,Goare,lgoared3@wp.com,3.73,1c695977-f87a-46ac-ba50-d5e4166959bd,Vest,2019-12-07
+473,Julieta,Baselli,jbasellid4@stanford.edu,4.70,1681f35b-4531-4a63-8c7c-10f488481531,Sweater,2019-11-15
+474,Nehemiah,Poker,npokerd5@amazon.com,3.16,bc39e289-fd8f-46cf-9bfa-5d073e42d832,Jeans,2019-10-10
+475,Pietra,Leale,plealed6@senate.gov,56.13,bbc19d34-f71f-4cad-8225-c54ebacec6e8,Vest,2019-02-26
+476,Wallas,Bearham,wbearhamd7@nhs.uk,92.87,3a804205-4de8-4c7d-a535-f634a67f4bc2,Fleece Jacket,2019-02-02
+477,Korella,Richardson,krichardsond8@nature.com,87.69,9c6dc061-166d-4070-ad6a-1068130b8872,Stretch Pants,2019-10-10
+478,Cullan,Beazleigh,cbeazleighd9@squarespace.com,14.19,9dfd8428-7009-4fe2-9952-145055804cb0,Fleece Jacket,2019-05-11
+479,Robena,McMahon,rmcmahonda@ucsd.edu,88.27,5e2a1b17-8cb6-4638-bffb-0b6cd30eb604,Stretch Pants,2019-09-23
+480,Nanon,Chamberlaine,nchamberlainedb@princeton.edu,73.23,b1e35713-30e3-4809-8ebd-231e3882891b,Vest,2019-03-09
+481,Susanetta,Lerwill,slerwilldc@ucoz.ru,98.92,b2a5b45d-4342-4b20-8e45-843b29063904,V-Neck Pullover,2019-06-12
+482,Jackquelin,Orfeur,jorfeurdd@ezinearticles.com,6.46,c5dfe417-d44f-410b-8837-2bf04d8049e2,Ski Coat,2019-08-03
+483,Burch,MacGauhy,bmacgauhyde@omniture.com,72.88,dfe2ee73-fa28-4b97-93b3-8891d67d1027,Polo Shirt,2019-05-11
+484,Reggi,Trengrouse,rtrengrousedf@odnoklassniki.ru,10.75,8727c375-8da2-4919-9329-f033ff908bc6,Ski Coat,2019-08-12
+485,Grayce,Musgrove,gmusgrovedg@shutterfly.com,20.98,587abedc-f15d-4872-86bb-46ae5366a5df,Vest,2019-07-29
+486,Ally,Vivien,aviviendh@amazonaws.com,82.66,9aa4a893-d77c-42ec-ad9a-a4b6f2bc718e,Stretch Pants,2019-12-03
+487,Carolyn,Milne,cmilnedi@livejournal.com,90.64,6dd8a411-953b-47da-8caf-fc8d68e385af,Polo Shirt,2019-07-19
+488,Nicoline,Southworth,nsouthworthdj@ftc.gov,28.92,1c2f60b4-0c93-4163-a314-66295c7476b2,Jeans,2019-08-28
+489,Deidre,Farmar,dfarmardk@nymag.com,86.58,27c89849-f6a2-45a5-ace8-f8b555c0d071,Jeans,2019-05-06
+490,Tove,Muspratt,tmusprattdl@t-online.de,28.97,0380c75f-0c8e-4e3c-8f4b-1251fdf721f1,Vest,2019-10-18
+491,Ardis,Thackeray,athackeraydm@yolasite.com,84.73,03731bdb-5464-4c5e-a176-e15232711b1a,Sneakers,2019-08-20
+492,Mel,Keyzman,mkeyzmandn@indiatimes.com,63.01,ef8caceb-c588-4172-bed2-cf3db3777707,Tank Top,2019-07-13
+493,Sibel,Sollime,ssollimedo@youtube.com,69.22,3b70ceed-d4c4-4607-9f37-9ff13540fae4,Ski Coat,2019-02-01
+494,Breanne,Witherbed,bwitherbeddp@php.net,11.79,33e9ba9c-2c8a-4468-b86d-8fb0681ced6b,Polo Shirt,2019-05-12
+495,Clarette,Panyer,cpanyerdq@feedburner.com,42.94,ffc149c3-16e0-4d53-82e9-d3e3fa4488d4,Vest,2019-10-25
+496,Kip,Eslie,kesliedr@slideshare.net,99.96,4009c7c9-234b-4d51-b115-cf538ed06353,Fleece Jacket,2019-12-26
+497,Lanie,Pinkie,lpinkieds@i2i.jp,62.77,159889c6-a168-497f-a675-b943aa77566f,V-Neck Pullover,2019-03-04
+498,Neil,Snoxell,nsnoxelldt@sohu.com,4.20,df25da96-59ac-4cbe-99cd-75bfbd8218df,Jeans,2019-01-19
+499,Brigid,Skipsea,bskipseadu@uiuc.edu,23.85,55c40696-0cbf-4aab-b0c8-9271dfacae25,Sweater,2019-11-02
+500,Aile,Koch,akochdv@a8.net,41.93,edef1aa6-ad77-42d1-9b0e-d725a9b54cc9,Leggings,2019-03-11
+501,Hale,Alvy,halvydw@163.com,77.76,fbb73033-d879-4b91-94c9-1a831bbdd508,Polo Shirt,2019-09-19
+502,Janith,Fleetwood,jfleetwooddx@ocn.ne.jp,84.52,d7d3e954-4e1d-47c0-a325-ac39b4b7747c,Tank Top,2019-12-09
+503,Ilyssa,Ryan,iryandy@myspace.com,73.23,c8f9c1e9-f1d7-46b9-85ff-e20e00e22d89,Fleece Jacket,2019-06-18
+504,Tiffie,Crampsey,tcrampseydz@163.com,98.81,a8ffcd53-f568-46a4-9095-27685b4e7f01,Jeans,2019-02-16
+505,Flo,Mathevet,fmathevete0@answers.com,8.68,295c05db-7645-4dc5-a936-cbaa4a18714b,Leggings,2019-03-26
+506,Packston,Madigan,pmadigane1@cbslocal.com,23.93,db50b76f-b38f-439b-928d-f7e9171956b8,Tank Top,2019-07-12
+507,Flinn,Hender,fhendere2@joomla.org,77.55,0dfda20a-d547-44b2-a224-a4208d9292d7,Leggings,2019-09-03
+508,Linc,Yegorkin,lyegorkine3@twitpic.com,90.25,cd00ae47-1738-4938-9caa-2bfda911d9c9,Sweater,2019-07-22
+509,Kalindi,Fancy,kfancye4@wunderground.com,1.87,1ff8fe3d-20bc-4af8-be14-90e0ab416d43,Polo Shirt,2019-02-03
+510,Sherilyn,Steere,ssteeree5@xinhuanet.com,79.48,98be4776-6277-409c-8090-25d494431907,Leggings,2019-01-07
+511,Wit,Comi,wcomie6@livejournal.com,61.95,bf39f964-932d-4884-a654-b64a66c33a54,Vest,2019-08-02
+512,Kari,Wadlow,kwadlowe7@usa.gov,4.10,7b0a5030-41fe-40e5-a91b-86a406c045ee,Jeans,2019-04-27
+513,Far,Chasson,fchassone8@rediff.com,64.30,0e01b16a-f871-42f3-abb9-ec6efcbdf05c,Sneakers,2019-09-04
+514,Babb,Prosh,bproshe9@cbslocal.com,62.92,f639a035-12cd-480f-8010-14455beddd4b,Leggings,2019-05-14
+515,Tobe,Heino,theinoea@nba.com,70.83,084da9ee-7a72-4c16-9b32-6649d7aa920f,Vest,2019-12-16
+516,Lanae,Wandrack,lwandrackeb@theglobeandmail.com,65.38,774a4dbe-52a1-41bd-be95-da573cf40252,Vest,2019-04-17
+517,Courtenay,Dilon,cdilonec@about.me,18.81,a07632a4-4471-47f9-83a9-e97ace7fb57c,Sweater,2019-09-10
+518,Rosalynd,Bannerman,rbannermaned@last.fm,97.48,0269f4f9-73aa-4953-9f8e-87da4f4355de,Polo Shirt,2019-12-03
+519,Antonin,Lob,alobee@discuz.net,15.55,701caebc-eb8b-45f1-86c3-eafecedf9548,Tank Top,2019-03-11
+520,Marv,Markus,mmarkusef@weather.com,26.44,515b9d6c-7b6f-49d9-ba58-ba0c47e05782,Jeans,2019-11-22
+521,Mahmoud,Greatreax,mgreatreaxeg@dailymail.co.uk,25.72,a9c5034c-681a-4bec-9fe9-2e60998f6134,Jeans,2019-05-10
+522,Valida,Ody,vodyeh@youtube.com,0.26,b6393fd2-337d-4e2e-b194-1e43149707bf,Jeans,2019-04-10
+523,Marylynne,Fownes,mfownesei@skyrock.com,99.25,ad9a1cb0-e109-4bf1-b0da-784e2445e34d,Tank Top,2019-03-11
+524,Abdul,Stranio,astranioej@cbslocal.com,35.61,c6a38c5f-d7f2-4993-87ef-ce9343481397,Leggings,2019-12-24
+525,Fielding,Gumary,fgumaryek@themeforest.net,86.98,945fb4de-eca0-4da9-80c3-7161172f2f10,Sweater,2019-02-18
+526,Nadeen,Buffham,nbuffhamel@nytimes.com,68.97,2ea521a4-82cb-43d1-a409-06f8bb4434c5,Vest,2019-11-02
+527,Charis,Skirlin,cskirlinem@twitpic.com,15.65,ad719cfc-b61b-45e2-9ee5-e3460e8ea715,V-Neck Pullover,2019-09-11
+528,Lillis,Verbeek,lverbeeken@t.co,9.65,98d52b51-a182-4435-9497-85b276cd7077,Fleece Jacket,2019-04-10
+529,Gilemette,Tallman,gtallmaneo@amazon.de,23.75,e188dae5-e98e-48af-bdb5-feef287dcddc,V-Neck Pullover,2019-09-27
+530,Laird,Rebillard,lrebillardep@scientificamerican.com,97.61,e5b94394-b776-4fc6-83bf-dc82d1dec112,Ski Coat,2019-04-09
+531,Brunhilda,Perrin,bperrineq@vkontakte.ru,60.22,11405233-729a-4fa3-80bc-ffe98169ccf0,Vest,2019-02-12
+532,Rooney,Kinnock,rkinnocker@paginegialle.it,83.67,2ad3f775-0757-4ac2-a654-4196b98f7ab2,Jeans,2020-01-03
+533,Milt,Finlan,mfinlanes@ocn.ne.jp,95.26,b011a266-3bb2-4306-af37-ef3d03da972d,Stretch Pants,2019-06-25
+534,Scott,Le Brum,slebrumet@un.org,46.87,5e9e25e2-984e-4d15-97e0-78bc72bab1bd,Polo Shirt,2019-10-15
+535,Alastair,Busain,abusaineu@washington.edu,78.25,d25854b7-6ed1-4cd7-adaa-3963c9088a03,Ski Coat,2019-01-19
+536,Binnie,Rosten,brostenev@360.cn,64.53,2670a6f2-b9b0-4963-9beb-648316d6d047,Leggings,2019-08-10
+537,Tamara,Spellissy,tspellissyew@discovery.com,88.55,7e660855-7383-4a4e-bf9a-d4b94f610f9d,Leggings,2019-12-19
+538,Kayley,Dahmke,kdahmkeex@slideshare.net,39.59,c41d2d56-4f84-42a9-96e8-67b34984c64b,Polo Shirt,2019-08-30
+539,Adel,MacCulloch,amaccullochey@google.de,6.94,e4207c84-7a7b-4968-a897-5e003afc134a,Jeans,2019-04-23
+540,Adriaens,Georgi,ageorgiez@usnews.com,19.62,7bec1a9e-6ffe-44c1-866b-92dff5afaf51,Sweater,2019-10-25
+541,Egan,Ferrino,eferrinof0@sbwire.com,1.92,9dc46474-d10f-47e2-9730-fc5f2fcd8bfc,Fleece Jacket,2019-09-12
+542,Rheba,Grassot,rgrassotf1@cocolog-nifty.com,66.26,d310396d-b5b8-42dc-a8b0-73f12ed6e006,Vest,2019-04-09
+543,Fonzie,Aymeric,faymericf2@moonfruit.com,58.52,93a0b38f-20f0-4253-9ba9-90cb74eae146,Jeans,2019-07-13
+544,Gretna,Bruton,gbrutonf3@bigcartel.com,14.93,49e6255f-4dbc-4112-89eb-2ebce6f38bae,Stretch Pants,2019-12-19
+545,Lotti,Pepper,lpepperf4@hud.gov,37.77,3dda459c-1b2f-47b4-bce3-aa5a97733bdb,Tank Top,2019-04-23
+546,Donny,Kopke,dkopkef5@plala.or.jp,1.16,44959bcd-f0d2-4192-b489-d3bb153934bc,Jeans,2019-08-26
+547,Carmelita,Shalloo,cshalloof6@ask.com,48.46,b9af234e-89b9-4632-8936-21bf68b0b1ab,Vest,2019-12-16
+548,Brucie,Peachman,bpeachmanf7@skype.com,84.37,c0c3f903-b053-4442-a6c1-eb04c898ea81,Sneakers,2019-10-11
+549,Hervey,Mowsdell,hmowsdellf8@google.co.uk,50.07,1d3053c2-ef20-453a-a923-af42a94c20b3,Ski Coat,2019-09-20
+550,Minda,Orr,morrf9@theguardian.com,28.53,507f3f2d-ed39-490a-a586-87c23f7c1f42,Leggings,2019-11-20
+551,Sherlocke,Wattingham,swattinghamfa@china.com.cn,49.29,cde63f3d-b160-4a42-b0bb-c3cc33ee042c,Tank Top,2019-04-30
+552,Aigneis,Vasyagin,avasyaginfb@comcast.net,69.72,df1bc776-30eb-4a41-8e1b-ab54a357def3,V-Neck Pullover,2019-10-10
+553,Sapphira,Beckwith,sbeckwithfc@umn.edu,17.22,8effa8ec-619b-4f18-96f0-6dc4731e5a83,V-Neck Pullover,2019-05-25
+554,Eloisa,Volcker,evolckerfd@instagram.com,95.88,498adc7a-3e2d-4282-a46d-0fb1948565ac,Polo Shirt,2019-02-23
+555,Dael,Girodin,dgirodinfe@oakley.com,58.93,7089d868-1db4-48dd-bb8a-2536783bc0a8,Stretch Pants,2019-12-30
+556,Alden,Richfield,arichfieldff@mlb.com,50.11,a8a4e4d3-06dd-47ad-bc82-8600bced2553,Ski Coat,2019-08-26
+557,Annalise,Marsland,amarslandfg@gravatar.com,54.75,73d49494-56aa-4712-b918-876c8cc28e3b,Leggings,2019-12-07
+558,Marijn,Frostdick,mfrostdickfh@boston.com,27.80,b3175bb6-054e-4fd8-a441-3a8872925b63,Vest,2019-09-24
+559,Fania,Gateman,fgatemanfi@usa.gov,24.13,14e5a8a0-58fb-4a55-bbae-f6770144618c,Polo Shirt,2019-03-24
+560,Natalie,MacColgan,nmaccolganfj@nymag.com,54.54,b4fbfc8c-6029-422c-859c-c09d98a57eb7,Tank Top,2019-05-19
+561,Evangelina,Connell,econnellfk@noaa.gov,62.71,0f9b5c8b-8391-44b8-b2ba-e0c4a5d52c4c,V-Neck Pullover,2019-12-05
+562,Cal,Whitwham,cwhitwhamfl@apache.org,6.25,af9bd62d-d4f6-4ce4-81a1-47b9cdac4fbb,Fleece Jacket,2019-04-19
+563,Ingemar,Beernt,ibeerntfm@sfgate.com,7.41,dcab8d54-e8a3-480c-ba11-8cf1b42b6edd,Jeans,2019-01-05
+564,Rafferty,Shower,rshowerfn@ed.gov,66.73,1918c523-54f1-49de-9685-560ebecc4266,Sneakers,2019-08-12
+565,Erena,Gornal,egornalfo@alibaba.com,91.84,20aa8431-3ac3-487e-bc35-40634bf046b5,Ski Coat,2019-05-06
+566,Byrom,Tomlett,btomlettfp@bloglovin.com,40.49,cd9dc632-22d2-418b-9b66-9caa11e80060,Ski Coat,2019-02-27
+567,Dorie,Brisseau,dbrisseaufq@yelp.com,58.87,97f4cfce-6707-43f5-8baa-0ab6301aa952,V-Neck Pullover,2019-06-25
+568,Dion,Luttgert,dluttgertfr@oaic.gov.au,37.38,292ae985-b4a9-437c-a5d1-260e434621c4,Jeans,2019-11-07
+569,Breanne,Causey,bcauseyfs@columbia.edu,33.59,b9edf70f-6f6d-4380-b9b9-df2701b0fc88,Polo Shirt,2019-04-29
+570,Abbie,Mettetal,amettetalft@etsy.com,70.24,b670f9db-a1ab-45ed-afb7-e0f084bad24c,V-Neck Pullover,2019-01-09
+571,Margit,Deeming,mdeemingfu@epa.gov,83.74,99d8f04a-97cf-48ca-9885-4caf4b1dc4c0,Sweater,2019-09-02
+572,Hunt,Escoffier,hescoffierfv@mozilla.com,73.58,d0ea56e1-7122-4ae9-8a29-25c72cdb538f,Tank Top,2019-09-25
+573,Sean,Windeatt,swindeattfw@forbes.com,13.91,ad1ed3c1-888f-489f-afd8-139ac17f4abd,V-Neck Pullover,2019-08-25
+574,Emili,Rodson,erodsonfx@macromedia.com,74.24,5b97868c-5642-40da-bfee-085ed77915c0,Vest,2019-10-08
+575,Krissie,Blick,kblickfy@multiply.com,99.68,3b930903-cf5e-49bf-b57f-0a77884d81d5,Vest,2019-11-22
+576,Virgie,Cheyney,vcheyneyfz@berkeley.edu,0.91,8b75e1de-3a9f-4f56-a3e6-1888620dbfc7,Stretch Pants,2019-09-07
+577,Traci,Bench,tbenchg0@about.com,8.24,31c3527b-8bb3-4d6a-a052-969824faf1b7,Sneakers,2019-01-23
+578,Emelia,O'Hederscoll,eohederscollg1@is.gd,27.64,6b88aaa1-eddd-40ba-8841-8ec978b24a18,Sneakers,2019-05-24
+579,Ingar,Malt,imaltg2@wordpress.com,54.55,85e276d8-2fe5-439f-b7ff-de8a68cb189e,Polo Shirt,2019-05-29
+580,Isabel,Stainer,istainerg3@cnn.com,50.69,06ddbf07-a54f-412d-a3f2-a6b734e38883,Sweater,2019-11-21
+581,Mariann,Richardet,mrichardetg4@simplemachines.org,2.81,e30a42b7-1deb-4cc4-9868-176ac3a440f1,Fleece Jacket,2019-04-06
+582,Jaime,Mordanti,jmordantig5@state.gov,62.43,c56271ab-ec3c-45f7-907b-74b50683fb98,Jeans,2020-01-03
+583,Ezekiel,Jaquemar,ejaquemarg6@omniture.com,92.14,fbf5b990-671e-47d3-869e-0a854b63c416,Jeans,2019-01-06
+584,Markus,Force,mforceg7@telegraph.co.uk,32.88,e53d3319-40c6-42aa-b55e-bcd857313566,V-Neck Pullover,2019-10-22
+585,Pennie,Scintsbury,pscintsburyg8@redcross.org,79.48,5554e349-0df1-405a-af2e-2409f724a244,Polo Shirt,2019-09-03
+586,Marys,Pimblott,mpimblottg9@gmpg.org,18.61,3f9bdc56-07c4-4d50-aea0-55b6a139165b,V-Neck Pullover,2019-12-22
+587,Denni,Crabb,dcrabbga@uol.com.br,10.73,e9776362-0f61-4fe3-a836-317ab6987a1d,Polo Shirt,2019-07-06
+588,Mickie,Ramberg,mramberggb@examiner.com,45.57,7748cbd2-e7e4-4991-aaec-22900740f6c8,Fleece Jacket,2019-07-17
+589,Alisha,Selwyn,aselwyngc@foxnews.com,28.74,1c16d523-6e87-4eee-a37e-86e4a4993fb2,Ski Coat,2019-05-06
+590,Cecilio,Izac,cizacgd@issuu.com,84.65,c31dd5d8-d07b-4e1a-8794-45e63816cf2f,V-Neck Pullover,2019-10-02
+591,Marlow,Ipsgrave,mipsgravege@nasa.gov,11.82,71f09a7f-909e-48a2-b2d6-7d01c0496d4a,Vest,2019-11-16
+592,Catharina,Ingle,cinglegf@chron.com,57.37,e77713ad-c307-4879-80e5-3a3960984cc1,Stretch Pants,2019-10-29
+593,Ilario,Miettinen,imiettinengg@salon.com,90.72,a98f7a34-a74f-46ae-adfb-1a869877cffb,Sweater,2019-04-25
+594,Jobyna,Irons,jironsgh@plala.or.jp,34.34,676d763e-012b-4fe6-824b-e45e14e5ba3d,Ski Coat,2019-07-05
+595,Read,Stolting,rstoltinggi@privacy.gov.au,47.33,56478d83-6b75-4105-9125-a1ae80777ad6,Ski Coat,2019-03-08
+596,Fairleigh,Worsfield,fworsfieldgj@skype.com,5.03,1725c24c-d401-400a-b916-19d82fab5c39,Sneakers,2019-06-13
+597,Guillemette,Adriaan,gadriaangk@salon.com,16.35,5768bc57-40e1-4489-ba63-5d7b4d0deac5,Fleece Jacket,2019-06-19
+598,Gabrila,Adel,gadelgl@reverbnation.com,8.38,7d5b9e00-5d44-4247-9f9f-6fec16d9e652,Stretch Pants,2019-01-17
+599,Cal,Jaycox,cjaycoxgm@cmu.edu,25.50,ebf2c01f-a446-4242-bc7e-d38b3c1f58d0,Jeans,2019-12-15
+600,Maxwell,Saice,msaicegn@yellowpages.com,28.03,c843162e-0aad-4bb6-a8ef-96e27298e757,Jeans,2019-07-22
+601,Carlyle,Prescot,cprescotgo@mac.com,28.83,5f6a1270-5f62-4aaf-82a3-2764452af62e,V-Neck Pullover,2019-09-09
+602,Heidi,Bulcock,hbulcockgp@archive.org,13.25,a8230023-b31d-49da-ba16-926bd1f2e006,Leggings,2019-10-15
+603,Fonzie,Yallowley,fyallowleygq@biglobe.ne.jp,76.15,88baa226-fc5f-4532-89f7-a00839178b27,V-Neck Pullover,2019-12-08
+604,Karie,Mattaser,kmattasergr@friendfeed.com,82.58,2dfed388-e843-42c6-89c8-fea64d8f7a3e,Polo Shirt,2019-03-05
+605,Kent,McFadzean,kmcfadzeangs@oracle.com,29.34,6d895a78-da62-4008-b3a3-8cee22658a18,Ski Coat,2019-12-23
+606,Ignaz,Demangeon,idemangeongt@spiegel.de,92.48,77ee7137-3d46-4045-b345-67526bfe2c29,Sweater,2019-02-06
+607,Parry,Varnham,pvarnhamgu@ebay.com,90.48,97f2e828-2189-457c-b9e5-b590e68d9850,Fleece Jacket,2019-04-06
+608,Gav,Duddell,gduddellgv@hibu.com,83.54,2083d4dc-ea70-4434-bbef-a1eaeadf6ce3,V-Neck Pullover,2019-04-08
+609,Dareen,Reiach,dreiachgw@unblog.fr,85.97,35728baf-658a-4d68-9d4b-b2455df3801a,Vest,2019-04-18
+610,Anatollo,Readings,areadingsgx@webnode.com,44.47,12694006-1d74-42c6-9575-a7d08f7f0ce9,Ski Coat,2019-04-30
+611,Florentia,McArd,fmcardgy@walmart.com,53.21,f2cdf748-33c9-4028-b8cc-02a4a2e419a9,Tank Top,2019-11-08
+612,Florencia,Blackwood,fblackwoodgz@newyorker.com,51.14,3e082084-5343-4929-8787-bc440d366186,Jeans,2019-11-16
+613,Reynold,Plumstead,rplumsteadh0@wordpress.com,69.77,7ac33380-b5ee-4f28-a929-28767d3c3cee,Polo Shirt,2019-09-11
+614,Marnia,Fergusson,mfergussonh1@virginia.edu,18.43,c9162721-71f7-4d2d-9380-97349d2d8425,Fleece Jacket,2019-09-21
+615,Eleonore,Sant,esanth2@skype.com,14.08,27fd5da3-8de6-4671-a98d-90cfd33b1695,V-Neck Pullover,2019-11-29
+616,Lionello,Mulvy,lmulvyh3@weebly.com,93.94,23977444-9546-47a1-a309-4b9a9f937c4a,Jeans,2019-02-08
+617,Adora,Giannazzo,agiannazzoh4@ca.gov,20.20,7cc416aa-c04e-4037-897a-6a86b25d2262,Polo Shirt,2019-10-22
+618,Delaney,Fibbitts,dfibbittsh5@indiatimes.com,99.23,f507519d-ccf2-4de0-8edb-440acf7967d6,Ski Coat,2019-07-05
+619,Eadie,Agney,eagneyh6@sphinn.com,27.15,240e135f-e710-4663-8c3a-f8642ef26c12,Stretch Pants,2019-11-07
+620,Berty,Yirrell,byirrellh7@last.fm,64.12,1aacbe8e-3a82-4f84-a769-640d7d49e7e0,Ski Coat,2019-06-07
+621,Sammy,Koppens,skoppensh8@go.com,33.57,241cd565-db98-438e-b61c-b584c44ef20e,V-Neck Pullover,2019-05-18
+622,Ermanno,Witherden,ewitherdenh9@edublogs.org,88.33,4206be03-1732-4b31-802a-29a59d875390,Vest,2019-05-03
+623,Jocko,Cosin,jcosinha@cafepress.com,5.15,62a40e6a-e8a4-4df2-8ff0-6453969db541,Stretch Pants,2019-08-30
+624,Dame,Gasking,dgaskinghb@prweb.com,88.85,737fc0e5-1dfe-4f51-b1fa-e4d75ad78d71,Jeans,2019-12-02
+625,Merralee,Ellul,mellulhc@gravatar.com,56.38,0a41a1f2-2b0d-4cc7-9af6-21cc28c39359,Sneakers,2019-09-02
+626,Davin,Sodor,dsodorhd@google.ca,82.77,ce151a2d-3a16-487e-8dc1-50a3ce4a1962,Tank Top,2019-01-25
+627,Lezley,McTavy,lmctavyhe@scientificamerican.com,60.36,f3e353fe-f9e8-4a88-90b0-6d4ce3a106fc,Leggings,2019-06-18
+628,Wilhelmine,Kerswell,wkerswellhf@wordpress.com,70.36,c187ecd4-a1ad-43c4-9ee2-76fe4df4a915,Leggings,2019-04-15
+629,Mufi,Wooles,mwooleshg@state.tx.us,97.97,fcbd0e78-56f8-41a6-981e-3fbcd9fdb755,Vest,2019-08-24
+630,Ody,Pavlovic,opavlovichh@dailymotion.com,88.13,5621124e-e7b4-4759-90cf-bd7f35cab338,Fleece Jacket,2019-04-14
+631,Bard,Kondrat,bkondrathi@squidoo.com,83.88,1fd9ca76-d3c6-4490-b1ae-1d806d682600,Tank Top,2019-05-15
+632,Walden,Bradbrook,wbradbrookhj@discovery.com,69.77,70a2382b-88f6-4386-a217-503f8c2dc903,Polo Shirt,2019-01-23
+633,Cross,Tommasi,ctommasihk@google.com.br,20.91,952a6f64-b285-45ce-aef1-785618db5179,V-Neck Pullover,2019-06-08
+634,Dom,Croft,dcrofthl@forbes.com,82.33,52c232d1-6022-46ae-83b3-b62a29adfe2c,Ski Coat,2019-01-18
+635,Silvain,Uttermare,suttermarehm@comsenz.com,47.84,3f331276-2a90-4fd1-b9b3-010051a54d07,Stretch Pants,2019-09-01
+636,Town,Smalcombe,tsmalcombehn@feedburner.com,50.83,153486e7-01ee-46fc-aaed-a98c76f2ad48,Jeans,2019-10-15
+637,Marketa,Geockle,mgeockleho@techcrunch.com,37.39,6291fc07-9724-45af-9dad-ccd09256d4e6,Ski Coat,2019-06-18
+638,Jaymee,Clark,jclarkhp@google.fr,77.75,2bbc4cc1-fc08-4a18-9c6c-8b3e28275f05,Sweater,2019-12-10
+639,Kris,Gotter,kgotterhq@nature.com,13.95,a5488fbd-3a4b-436d-b883-67e98ed81c9f,Fleece Jacket,2019-11-24
+640,Caritta,Rihanek,crihanekhr@g.co,79.66,f052f69d-91c9-45dd-9194-87d81aa644d8,Leggings,2019-06-25
+641,Carter,Lean,cleanhs@barnesandnoble.com,59.42,701a3c60-9e7f-4776-8269-2990bc679271,V-Neck Pullover,2019-03-25
+642,Carita,Larder,clarderht@oracle.com,1.68,5ae938cf-42c4-4fcb-b118-85cc15bbad28,V-Neck Pullover,2019-06-15
+643,Worth,Girkin,wgirkinhu@webeden.co.uk,25.00,e9a3d23e-b357-4703-a74a-50134fac8c9a,Jeans,2019-04-03
+644,Marne,Bloxsum,mbloxsumhv@adobe.com,96.17,b4365f89-37a8-4fa4-bc7f-0b34be1077be,Ski Coat,2019-11-17
+645,Ronald,Beattie,rbeattiehw@google.ru,8.39,23d40d05-5d6d-447e-940b-b9867770c9f6,Leggings,2019-07-04
+646,Nanci,Rockcliffe,nrockcliffehx@trellian.com,83.46,39c39155-89e4-4663-af63-e4635035ad3c,Vest,2019-10-21
+647,Willie,Ciotti,wciottihy@indiegogo.com,29.18,be036b9b-ca97-44f8-8a39-486a25f35242,Stretch Pants,2019-12-08
+648,Tabbie,Grayson,tgraysonhz@washington.edu,9.24,986db1e0-64e0-4b78-9956-fde40682947a,Vest,2019-02-24
+649,Ralph,Scurfield,rscurfieldi0@g.co,73.52,349927ef-76fe-436b-bdeb-038c06107797,Leggings,2019-01-29
+650,Elaine,Coundley,ecoundleyi1@washingtonpost.com,22.01,fcc31f7f-1bc9-43d3-aebb-a7c455aa5b88,Jeans,2019-08-08
+651,Shell,Breslin,sbreslini2@xrea.com,46.18,53ceb4c5-9ffe-4fb7-8db0-ef23876aef6c,Leggings,2019-10-20
+652,Andromache,Dorwood,adorwoodi3@elegantthemes.com,2.17,f62059ee-0e0b-453b-a3b4-46ed8bd3c508,Vest,2019-09-03
+653,Emlyn,Prosch,eproschi4@360.cn,50.31,533ed73d-b824-458d-90f2-c16506886492,Ski Coat,2019-06-08
+654,Lorenzo,O'Spillane,lospillanei5@chicagotribune.com,25.79,4537bdb6-761d-4f8b-b742-83edb60408fb,Jeans,2019-11-26
+655,Eunice,Sealove,esealovei6@elpais.com,74.76,ee287b76-dbcc-4a1e-ad6d-e3c5b076b861,Ski Coat,2019-12-01
+656,Darb,Crossthwaite,dcrossthwaitei7@msn.com,9.82,a3d34ec8-9dc5-4c10-869f-37ba931ad9d2,Fleece Jacket,2019-02-08
+657,Gunther,Burkman,gburkmani8@blog.com,59.98,1e97ad3f-610e-47d8-9ce4-be19fae6bf74,Sneakers,2019-09-02
+658,Niki,Hekkert,nhekkerti9@plala.or.jp,72.55,0af79b4e-61de-4dd3-8050-fb560881f053,Vest,2019-12-16
+659,Tomkin,Newcome,tnewcomeia@github.com,83.68,c66f6532-860f-4ad8-8b97-597eb412f964,Tank Top,2019-07-30
+660,Zechariah,Prester,zpresterib@illinois.edu,14.97,83991340-04a2-4b84-b157-2f6bf04b2314,Polo Shirt,2019-08-14
+661,Salvatore,Tutill,stutillic@bigcartel.com,20.48,adea95e0-a421-477a-b1e5-2457e1ec42bf,Leggings,2019-08-25
+662,Gunter,Crampsey,gcrampseyid@is.gd,99.83,fe28b23b-d68a-4f3e-9e06-8b4b75b51d37,Ski Coat,2019-05-07
+663,Bren,Malt,bmaltie@tripadvisor.com,20.28,c73cec7f-a41a-4cf2-b89e-88cbed0ed942,Sweater,2019-02-16
+664,Westley,Caplen,wcaplenif@eepurl.com,80.63,aa767e95-d08e-4ddf-b263-64ff6f3605f1,Tank Top,2019-06-06
+665,Randa,Loosemore,rloosemoreig@list-manage.com,61.50,fe6911c9-96f0-43d3-b752-97ba84e7b270,Ski Coat,2019-05-21
+666,Lilian,Capini,lcapiniih@nbcnews.com,94.64,e0fd3266-a3e0-403e-b5be-6ed5fba29102,Sneakers,2019-09-10
+667,Bax,Lytell,blytellii@jiathis.com,43.83,7762eae4-ba2a-4e67-abe2-d60ae0a5a0db,Leggings,2019-02-08
+668,Zeke,Oxbie,zoxbieij@hud.gov,66.93,7f392a75-1e4f-4f6c-bc8f-228134aa4d40,Jeans,2019-06-01
+669,Denney,Punter,dpunterik@edublogs.org,95.01,3903e968-8f3f-4de7-96b4-2f965fdbab40,Fleece Jacket,2019-10-09
+670,Norton,Gaunt,ngauntil@cocolog-nifty.com,59.83,6c841a6c-3926-4f60-942f-7da81828ceb8,Vest,2019-06-15
+671,Lennard,Garahan,lgarahanim@canalblog.com,69.61,c2103ea0-4479-44e0-aac4-9cecc42d3884,Vest,2019-12-31
+672,Saraann,Franscioni,sfranscioniin@oracle.com,46.50,14edfcdd-7d3a-4186-80e5-0f5989734f13,Ski Coat,2019-10-13
+673,Alexis,Hamlyn,ahamlynio@zimbio.com,39.91,68d858f7-0289-436b-a87f-ecad499d7b65,Stretch Pants,2019-03-30
+674,Elissa,Abramof,eabramofip@addtoany.com,72.57,fc3bddec-68ef-4980-bbac-b1b921a4d10a,Stretch Pants,2019-05-16
+675,Celine,Nowell,cnowelliq@ovh.net,50.52,74f3f117-0cf9-44a6-bcce-92329a5178b1,Polo Shirt,2019-12-04
+676,Melina,Bessant,mbessantir@technorati.com,29.97,4c5d45a0-a00d-4646-a703-fe0d1d30eb1b,Stretch Pants,2019-09-07
+677,Drugi,Connar,dconnaris@devhub.com,94.87,592546a4-9f24-49e5-adab-52ca92589fc2,Stretch Pants,2019-09-13
+678,Hilly,Edworthie,hedworthieit@cmu.edu,83.70,c0ebd97e-6b13-41f6-9f75-0c45c5f1071d,V-Neck Pullover,2019-04-02
+679,Alyssa,Paradine,aparadineiu@hostgator.com,44.95,844b7a94-e4e2-4d28-8114-f5dc38111713,Ski Coat,2019-08-19
+680,Matty,Guest,mguestiv@apache.org,53.45,85c4fec0-4526-4808-8720-4ee6f17bfdfd,Leggings,2019-07-27
+681,Paxton,Lindegard,plindegardiw@berkeley.edu,99.62,c40b5620-46a5-4735-9917-330f24ddaf1c,Sneakers,2019-10-03
+682,Lacee,Cornock,lcornockix@weather.com,93.18,d777b0f9-b16c-4bd4-8ac5-5e864995f8ab,Ski Coat,2019-04-13
+683,Ebenezer,Mogie,emogieiy@netscape.com,27.87,255abc2b-1c9c-4e4b-a3ea-1ba4e5b3f9bd,Polo Shirt,2019-10-13
+684,Nat,Skill,nskilliz@sina.com.cn,19.49,ad81b867-a3d3-49b3-83bb-fbd5a5967e68,Fleece Jacket,2019-09-26
+685,Deeyn,Powder,dpowderj0@fc2.com,41.94,ff668f3c-3ea7-4a1c-9f4a-ec27a28d3f8a,Polo Shirt,2019-10-24
+686,Elisha,Dovey,edoveyj1@cafepress.com,73.35,4b26028e-40c4-425d-924d-c00c18030e43,Polo Shirt,2019-11-14
+687,Raynard,Dickings,rdickingsj2@miitbeian.gov.cn,68.85,2dea78bc-cfc0-4b31-ac0f-9c470f6020e3,Sweater,2019-08-03
+688,Torry,Malden,tmaldenj3@columbia.edu,33.48,c70459dd-09e4-44e3-8816-1ea0d0187fe3,Polo Shirt,2019-01-07
+689,Cariotta,Giannoni,cgiannonij4@symantec.com,34.34,7e7717ca-e8c5-49cb-bfb2-108940b1a063,Sneakers,2019-04-20
+690,Lavina,McNeilley,lmcneilleyj5@friendfeed.com,59.44,0c62e092-d54f-4aed-a2f8-05f1b85e062d,Sweater,2019-02-25
+691,Callean,Sherreard,csherreardj6@miibeian.gov.cn,72.80,23246158-bcfc-4017-a8e3-c37a3f6c6331,Sneakers,2019-02-24
+692,Allister,Corson,acorsonj7@kickstarter.com,45.19,b31ac9ec-7485-433d-b190-880509ac7528,Tank Top,2019-05-09
+693,Keane,Burnitt,kburnittj8@liveinternet.ru,33.42,e92e39fa-c169-4f77-ae0b-dbdd78a20919,Leggings,2019-04-20
+694,Turner,Leavesley,tleavesleyj9@etsy.com,95.75,b68bb72b-c28b-4ce6-89ab-3d8840ef2a4a,Stretch Pants,2019-08-08
+695,Roma,Kestian,rkestianja@cargocollective.com,64.57,ba919f63-1182-4d9f-8f6c-02be798330c8,Leggings,2019-05-10
+696,Philippa,Trevett,ptrevettjb@ibm.com,98.99,c7e67fc4-4b4f-48f5-af07-c7d2e6b7825b,V-Neck Pullover,2020-01-01
+697,Ferguson,Tiffany,ftiffanyjc@photobucket.com,35.79,4c16b7d2-94a0-4f21-989c-899ef650e40e,Polo Shirt,2019-03-30
+698,Kinny,Tomlett,ktomlettjd@eventbrite.com,52.51,886554f8-a8b5-4751-8af7-f6c9f62c51ea,Polo Shirt,2019-08-11
+699,Jacky,Cossar,jcossarje@china.com.cn,66.62,720e7df2-45c1-4112-87c9-7c84e23e0164,Polo Shirt,2019-07-15
+700,Emilie,Sheere,esheerejf@google.com.au,38.96,0b8d46cd-083e-4a4e-8aa6-2fcb52b65c98,Jeans,2019-04-17
+701,Peirce,Gouinlock,pgouinlockjg@creativecommons.org,14.79,338d0f66-eba8-49f2-b4bc-10e3491e8a5d,Ski Coat,2019-06-08
+702,Mei,Anstey,mansteyjh@bluehost.com,80.94,e503cfba-2cc8-46aa-baea-0b761d34f8d3,Sneakers,2019-01-22
+703,Zaneta,Aronov,zaronovji@google.it,18.44,2c3e8412-c5a3-497f-92f9-75d4de832e55,Sweater,2019-03-06
+704,Andra,Iiannoni,aiiannonijj@narod.ru,9.59,d5a3f0d6-1a46-4a55-9010-59f808482673,Ski Coat,2019-01-12
+705,Sigvard,Keyden,skeydenjk@xrea.com,99.54,f33bbb2c-0a1d-42df-88dc-e0acec3bf471,Vest,2019-04-13
+706,Morly,Swaisland,mswaislandjl@twitpic.com,77.39,99a70e4a-0b80-450f-956b-0a5f868e7679,Fleece Jacket,2019-04-11
+707,Chev,Pollicote,cpollicotejm@bbb.org,17.95,ca78a560-46a7-4a8c-9dbe-0b69292a1a8e,Leggings,2019-11-07
+708,Crichton,Skirrow,cskirrowjn@msu.edu,71.07,cbcb1767-ca83-44bc-8dc7-378f06002be8,Ski Coat,2019-05-06
+709,Julina,Gammidge,jgammidgejo@eepurl.com,84.32,bfd693a4-f7a7-4890-bb82-b4da76738816,Jeans,2019-09-13
+710,Anthiathia,Bealton,abealtonjp@vkontakte.ru,90.63,b17a2c2e-6f3f-4384-85c5-47eb8ee3e88e,Tank Top,2019-09-08
+711,Cahra,Burnand,cburnandjq@google.ca,83.18,34ea69b0-06a9-416c-bf60-cbd99444497d,Stretch Pants,2019-11-16
+712,Mikkel,Caslin,mcaslinjr@mysql.com,16.03,25451649-b182-478d-8547-487f5d55c11f,Jeans,2019-12-28
+713,Cordell,Matuszinski,cmatuszinskijs@chron.com,46.37,ed2f7ce2-c2ef-4207-ba55-c284527f958a,Jeans,2019-02-05
+714,Bella,Boyse,bboysejt@liveinternet.ru,54.83,d821b1be-99cc-493a-9913-665bfaad5c21,Fleece Jacket,2019-12-29
+715,Serena,Paridge,sparidgeju@over-blog.com,75.51,e92bbdbb-9bf7-4398-8e26-96c6f9a4ef48,Leggings,2019-06-13
+716,Dita,Sigward,dsigwardjv@smugmug.com,79.37,3c9f13ba-9e82-46b1-ab3a-e0cbbde0e089,Sneakers,2019-11-14
+717,Edna,Dunsmuir,edunsmuirjw@baidu.com,27.00,184bca52-cfdc-4d29-ae1a-1ac9426333fa,Vest,2019-10-29
+718,Ellsworth,Padly,epadlyjx@t-online.de,46.38,c12624ed-d838-4b00-8d4b-f4fef513c959,Sweater,2019-03-29
+719,Amelita,Bengefield,abengefieldjy@spotify.com,25.33,27bad582-395e-4843-abfb-839c13fcfe3b,Leggings,2019-09-12
+720,Karil,Knocker,kknockerjz@twitter.com,28.47,4c18aea9-672a-40f2-82a3-5d53c44e0315,Leggings,2019-11-22
+721,Nancy,Lummasana,nlummasanak0@icq.com,79.60,e057ce87-6960-41a3-981c-b1d9959c883e,Tank Top,2019-08-13
+722,Mabel,Goundsy,mgoundsyk1@businesswire.com,53.71,f0c280c4-3a22-41f9-a488-b1b0a824610a,V-Neck Pullover,2019-01-26
+723,Dominique,Scoines,dscoinesk2@npr.org,0.71,3e35e5f1-4751-414f-bd02-3684d2f32061,Stretch Pants,2019-04-06
+724,Pooh,Byrcher,pbyrcherk3@vkontakte.ru,4.09,c654026d-b3b2-4f37-ac79-ab3c59878b5c,Leggings,2019-04-01
+725,Miranda,Belt,mbeltk4@tiny.cc,42.36,64a6a731-a59f-4d13-ab6e-65422a2326aa,Fleece Jacket,2019-01-13
+726,Celina,Lembcke,clembckek5@latimes.com,68.61,4c7f5f1b-1c2c-402c-ba5e-9c904868c3b5,Leggings,2019-12-03
+727,Leon,Hubbocks,lhubbocksk6@opensource.org,17.74,8ba75d03-d0f7-496b-aa64-df5a0832442e,V-Neck Pullover,2019-05-04
+728,Antonin,Mc Queen,amcqueenk7@seesaa.net,69.93,275c0952-aa4e-4eab-8c4c-8de54adfc885,Sweater,2019-12-28
+729,Huntley,Piggot,hpiggotk8@si.edu,82.08,8b312408-f808-419c-8462-2e2fbebc763c,Polo Shirt,2019-10-28
+730,Raina,Meach,rmeachk9@usgs.gov,41.82,e17c2b02-05f6-4dd0-b615-c6a00133ace5,Sweater,2019-07-25
+731,Standford,Pridie,spridieka@dion.ne.jp,68.92,857d67c8-4d2e-437f-b175-60864ca67903,Sweater,2019-01-20
+732,Dorry,Wrinch,dwrinchkb@yahoo.co.jp,76.42,003a88ad-d0d2-49b1-938b-89b92b761729,Sweater,2019-12-13
+733,Korey,Swires,kswireskc@delicious.com,12.58,9504727e-744f-4c53-b072-52c940d1e8cd,Vest,2019-07-12
+734,Kendricks,Christall,kchristallkd@state.tx.us,17.34,2a9a14fa-3bff-4e67-9457-4a9ee85dc652,Polo Shirt,2019-10-08
+735,Elsworth,McCullough,emcculloughke@tuttocitta.it,72.50,9190ed52-f83b-4a77-bd7a-a78f2fb9b0ad,Polo Shirt,2019-02-10
+736,Honey,Olford,holfordkf@vistaprint.com,39.58,f4d189e2-90dc-4752-995b-2cd8de6ba4d6,Polo Shirt,2019-12-05
+737,Feodor,Secretan,fsecretankg@senate.gov,49.35,1b7c7fba-1518-426a-a84a-adb9cf256a61,Jeans,2019-03-23
+738,Reyna,St Clair,rstclairkh@friendfeed.com,78.32,96b7b30a-4d7a-46bb-a1b6-9663b6c482b8,Polo Shirt,2019-08-05
+739,Anna-diana,Domleo,adomleoki@google.es,57.23,7f39be9c-d21e-4b68-b4c0-851f4491884f,Sweater,2019-10-21
+740,Ronnie,Tilson,rtilsonkj@webs.com,4.47,1a70eafd-9012-40ae-a5ec-ba57fa9b7e0a,Fleece Jacket,2019-10-02
+741,Robena,Perelli,rperellikk@thetimes.co.uk,85.96,dfab2e59-1e66-402f-addc-60240beda563,Polo Shirt,2019-11-22
+742,Maryann,Simao,msimaokl@deviantart.com,67.39,06504e78-d8e2-4a72-99d8-78e44718182c,Sweater,2019-05-02
+743,Bobbie,Mesnard,bmesnardkm@eepurl.com,81.20,456dbb99-b76b-4546-9bd1-833acd97561b,Jeans,2019-09-21
+744,Tasia,Dessent,tdessentkn@zdnet.com,31.27,e7c2874f-e334-46c8-b0e8-b76aff5411eb,Tank Top,2019-09-20
+745,Katuscha,McGannon,kmcgannonko@ucla.edu,86.06,07ade9c9-6a11-434c-916f-cac6294a5418,Ski Coat,2019-03-03
+746,Natalina,Pinder,npinderkp@discovery.com,30.11,b72b7963-41c1-452e-bf20-a57889cd3c09,Stretch Pants,2019-05-10
+747,Janith,Braim,jbraimkq@admin.ch,80.71,53fdf1f3-8661-48af-bab0-3c7fa4e46b7d,V-Neck Pullover,2019-06-23
+748,Madelin,Aspy,maspykr@xinhuanet.com,92.62,8a2c1460-f456-4d90-8e8b-218064b3945a,Leggings,2019-06-26
+749,Ellyn,Burdess,eburdessks@vinaora.com,59.35,1998f924-1611-4fe7-a388-3a8f788f7787,Tank Top,2019-06-02
+750,Duffie,Telford,dtelfordkt@cam.ac.uk,73.28,61172971-fc97-40ec-897e-9f0a067a4880,Fleece Jacket,2019-10-14
+751,Ashlin,Hinchcliffe,ahinchcliffeku@hatena.ne.jp,45.53,26dc469c-14a9-4187-b6f8-7ee87545b467,Ski Coat,2019-11-29
+752,Raimundo,Mettetal,rmettetalkv@yahoo.co.jp,34.60,86f85f45-8053-4598-bcbc-bd7f4436aefc,Sweater,2019-01-08
+753,Jacquie,Laxton,jlaxtonkw@twitpic.com,87.81,6e9459ed-e23f-446f-be46-001d9d416e28,Tank Top,2019-09-21
+754,Beck,Diviney,bdivineykx@google.co.jp,95.34,e3f6718e-371a-40a6-8bf4-b36d3ecae76b,Fleece Jacket,2019-08-20
+755,Cort,Torpie,ctorpieky@biglobe.ne.jp,8.03,798570da-c60e-4c57-bf8e-35acfdcb27fc,Stretch Pants,2019-02-09
+756,Pablo,Hallgate,phallgatekz@dedecms.com,32.82,64771605-ec8b-4d55-9066-96be0216a166,Stretch Pants,2019-07-31
+757,Ichabod,Corkell,icorkelll0@tinyurl.com,70.20,401b2ad1-8685-4d08-b6e1-7afe40480eec,Jeans,2019-03-23
+758,Clement,Corradeschi,ccorradeschil1@globo.com,90.44,61152ac9-f7e3-46a1-a6a6-d2c6e86355d2,Jeans,2019-02-17
+759,Teddie,Rennels,trennelsl2@hatena.ne.jp,31.77,300bd1ee-16b2-45b5-ad9a-821be5c12d2e,Vest,2019-07-13
+760,Desmund,Huckster,dhucksterl3@oracle.com,59.16,edca3cf0-6954-4c8e-9fa8-a1fbed2e37b1,Tank Top,2019-02-08
+761,Anette,Greenstreet,agreenstreetl4@mediafire.com,67.00,24d5721c-a20e-4902-9f08-203b64c6fa75,Polo Shirt,2019-06-05
+762,Eugine,Piotr,epiotrl5@symantec.com,44.43,5b6c9ff6-12a7-4917-9033-9d2ffc720978,Sweater,2019-10-30
+763,Fifi,Bowdidge,fbowdidgel6@whitehouse.gov,76.46,d1fef874-926e-4e03-baa3-e5e3a5595989,Sweater,2019-09-09
+764,Patrizia,Syversen,psyversenl7@friendfeed.com,89.64,ee8798e6-8b41-4830-890a-47bbc75bc224,Tank Top,2019-10-25
+765,Maje,Pawellek,mpawellekl8@oaic.gov.au,76.05,9554cd99-1b74-4df6-8215-ca8b8c5d8139,Stretch Pants,2019-05-17
+766,Janean,Gritton,jgrittonl9@wisc.edu,32.98,96ebd7eb-02e8-43f4-9b47-29754517f08f,Polo Shirt,2019-03-02
+767,Munmro,Scirman,mscirmanla@theguardian.com,69.30,009d2904-f35e-42cc-a177-0d27c25d3ca9,Leggings,2019-09-11
+768,Jarrid,Bryan,jbryanlb@imdb.com,99.75,cdb80e1c-8d70-4219-be2b-1f9f5554af45,Vest,2019-08-03
+769,Clementius,Tutsell,ctutselllc@purevolume.com,47.12,eb09b61b-6ef9-4e3e-8dda-1da1e1f020cf,Polo Shirt,2019-05-08
+770,Carmon,Morgans,cmorgansld@cloudflare.com,0.47,01905168-f0a7-474b-99fe-89ccff3cb0eb,Fleece Jacket,2019-08-05
+771,Claude,Lynskey,clynskeyle@google.pl,14.28,d21974d0-49f9-4b60-aeeb-c58ae81214c0,Vest,2019-04-09
+772,Hasheem,Pyrton,hpyrtonlf@spiegel.de,70.89,23023289-e6d3-4f05-8da8-76c71a34c7c8,Jeans,2019-12-18
+773,Brandise,Meegin,bmeeginlg@tinypic.com,86.13,755f8c91-fd25-4658-a6a7-72522ea4c23e,Sneakers,2019-08-12
+774,Jacquelyn,Humphrey,jhumphreylh@jigsy.com,34.78,3730ab98-4cd3-40ea-946f-9d0542bef10f,Leggings,2019-07-14
+775,Gerick,Goulstone,ggoulstoneli@pagesperso-orange.fr,69.29,2d273e83-2c02-4a7a-adb4-912d528c4fd0,Tank Top,2019-08-27
+776,Ode,Jepps,ojeppslj@ucoz.ru,14.23,9dbc5fa8-1c1b-47e3-9bc6-51876f04045a,Vest,2019-04-22
+777,Abelard,Proffitt,aproffittlk@usgs.gov,19.25,b2e9e2aa-1ff4-47b3-89ae-c6594adc314f,Fleece Jacket,2019-01-24
+778,Bary,Llopis,bllopisll@mlb.com,22.20,68f74213-cbc4-42c0-8939-c26d28c94e20,Stretch Pants,2019-04-13
+779,Brewer,Craw,bcrawlm@live.com,18.11,4cb8691d-fc34-428a-9aec-3960ea1cec0f,Sneakers,2019-05-21
+780,Morganne,Pieroni,mpieroniln@1und1.de,72.49,bbdfbd82-203f-4e0a-9c80-464321873f6b,Vest,2019-06-28
+781,Polly,Sinkings,psinkingslo@answers.com,27.50,71a3571c-40cf-4261-ac88-53948c53a626,Tank Top,2019-06-26
+782,Marthena,Boatman,mboatmanlp@spotify.com,34.13,9fe98936-c6f9-4448-9b2f-c691d7bfc0f3,Sweater,2019-10-13
+783,Wilie,Straughan,wstraughanlq@so-net.ne.jp,3.52,236ba0f9-d8cb-458f-a317-7c46115a04b1,Vest,2019-03-09
+784,Nari,Potes,npoteslr@reference.com,72.98,581b3bbf-2e17-457e-9ac0-a9f72b4bd119,Tank Top,2019-07-10
+785,Piper,Lowseley,plowseleyls@studiopress.com,15.67,a4bdd8ab-ca3e-4ba5-83c5-a67905d963b2,Vest,2019-04-04
+786,Christiane,Herculeson,cherculesonlt@nyu.edu,46.48,7e11956a-e4a3-4a91-94c4-0da80d556b6d,Tank Top,2019-12-22
+787,Duky,Bedenham,dbedenhamlu@columbia.edu,63.35,6f99e08d-2521-438a-b571-db8de8228419,Leggings,2019-07-07
+788,Jasen,Hess,jhesslv@house.gov,76.28,667545ae-154e-4ddd-9a6e-419334b99c61,Sneakers,2019-09-02
+789,Gunilla,Fillimore,gfillimorelw@networkadvertising.org,92.75,77285409-e99e-46da-a03d-4b841e51e4c7,Sneakers,2019-03-20
+790,Teena,Tenaunt,ttenauntlx@elegantthemes.com,77.32,839c6d73-fa92-4923-9b8e-87df9b400042,Vest,2019-07-31
+791,Lanna,Crane,lcranely@upenn.edu,30.04,187996a8-3da3-44ca-9b99-686119719073,Sneakers,2019-04-25
+792,Hewie,Duchesne,hduchesnelz@arizona.edu,67.14,6e8a53fb-d729-46f1-8a6c-61f08de7d34b,Ski Coat,2019-11-07
+793,Lucais,Scutchin,lscutchinm0@google.nl,10.52,00c83e5c-0a8d-43e1-88e5-e8e40782b5b4,Ski Coat,2019-04-06
+794,Shirline,Brushfield,sbrushfieldm1@feedburner.com,76.64,b73be685-8c5f-4081-98fc-93ed049e73ad,Fleece Jacket,2019-11-02
+795,Gabriel,MacCallester,gmaccallesterm2@tinyurl.com,98.16,5e2d49fd-5325-4cda-bf94-20585e9b25a3,Fleece Jacket,2019-02-18
+796,Cornall,Breede,cbreedem3@woothemes.com,33.31,9d4b27f5-53a5-4c3e-a488-1aed89189804,Sneakers,2019-05-11
+797,Gwenette,Jephson,gjephsonm4@e-recht24.de,75.76,4032cf60-f245-4e33-b8bf-3d723226e4ef,Vest,2019-09-13
+798,Bonny,Andrivot,bandrivotm5@marketwatch.com,84.82,3d8005ab-9882-4332-82db-9afc6496844b,Sweater,2019-03-26
+799,Marcia,Hammerich,mhammerichm6@telegraph.co.uk,35.87,23256548-0be0-4449-984d-75f5d637e444,Sneakers,2019-07-19
+800,Myrtle,Fend,mfendm7@wufoo.com,97.80,62508efe-8270-48bb-8ebb-86fc4d88ef2a,Leggings,2019-12-16
+801,Margarita,Rivilis,mrivilism8@1688.com,46.02,0943fb79-8178-4ccf-88df-b781e1a390e6,V-Neck Pullover,2019-02-25
+802,Laraine,Downey,ldowneym9@umich.edu,99.60,6a06cc8f-7afa-4ccd-adf8-aaf8504567aa,Ski Coat,2019-11-05
+803,Monika,Goldhill,mgoldhillma@epa.gov,10.39,dd57b741-b0f2-404b-9482-9d685e330881,Polo Shirt,2019-12-07
+804,Francesco,Bushill,fbushillmb@free.fr,17.85,8f795eb2-843c-48d9-8523-a0e895877bac,Stretch Pants,2019-11-06
+805,Melonie,Summerlie,msummerliemc@tripadvisor.com,21.47,37be7063-7ab7-46d6-9a2d-7c125ebae06f,V-Neck Pullover,2019-01-05
+806,Melosa,Whorlton,mwhorltonmd@sciencedaily.com,71.03,d856cbd1-d4de-482d-b60f-542d233ee454,Vest,2019-11-26
+807,Siobhan,Estabrook,sestabrookme@multiply.com,63.52,145b1554-d004-46d4-9a8d-e94aa14f8e1e,Leggings,2019-05-23
+808,Armin,Culbert,aculbertmf@slashdot.org,17.75,7015dd91-b3d1-4ed1-8664-e7ff02476deb,V-Neck Pullover,2019-02-06
+809,Sheffy,Flay,sflaymg@desdev.cn,33.16,d9d29f7e-76a5-458d-bc33-971fab8dc59a,Tank Top,2019-08-14
+810,Wanids,Ainsworth,wainsworthmh@ucla.edu,26.42,91dbf549-88c2-4e26-acc8-b8ac95f72e57,Jeans,2019-03-22
+811,Kellina,Dingate,kdingatemi@ow.ly,80.72,497dbaee-077f-4134-b279-97b1da4b268a,Sweater,2019-10-18
+812,Thorpe,Palfreeman,tpalfreemanmj@dyndns.org,84.89,d1cd23fa-171b-460c-9e56-9dc9403d0080,Leggings,2019-04-27
+813,Ada,Dellenbrook,adellenbrookmk@independent.co.uk,82.37,2b5bb19e-2d61-4dea-a2e2-1c621386c2d5,Sweater,2019-12-23
+814,Darrick,Duffrie,dduffrieml@digg.com,11.11,cc988fdb-ccf4-4074-847b-a86ff4dfc6ab,Vest,2019-11-01
+815,Cyndi,McNeil,cmcneilmm@fema.gov,71.41,2affaded-17bb-4f31-bbf3-247f25d83758,Tank Top,2019-12-09
+816,Tedi,Cogle,tcoglemn@state.gov,58.22,61f94b32-cd45-4861-ad9f-f91169156d3d,Tank Top,2019-03-08
+817,Susette,Note,snotemo@shinystat.com,94.24,dbd9da77-48e9-49bf-9cce-1d9aed82ac83,V-Neck Pullover,2019-01-22
+818,Barthel,MacRorie,bmacroriemp@digg.com,77.33,a86e4670-6cfa-432d-9005-61b4973f6165,V-Neck Pullover,2019-11-23
+819,Will,Hanbury-Brown,whanburybrownmq@independent.co.uk,97.69,53457eb9-c7f2-4f2c-94ff-b1a3b64b80dd,Polo Shirt,2019-03-03
+820,Verney,Gurrado,vgurradomr@sohu.com,27.07,89ec3e09-99bc-4cfc-908b-62985fd84288,Vest,2019-07-11
+821,Ruggiero,Meehan,rmeehanms@cocolog-nifty.com,67.14,03ceb65a-3f90-4387-a8f3-0300c4237073,Vest,2019-02-28
+822,Michelle,Jentzsch,mjentzschmt@homestead.com,88.59,734162f6-5f6e-494b-ad1f-ed58a0013957,Polo Shirt,2019-05-15
+823,Clyve,Wharmby,cwharmbymu@boston.com,21.13,3efe340b-555c-4383-a7f1-69a61dbb5c8c,Stretch Pants,2019-10-08
+824,Ardra,Hayles,ahaylesmv@latimes.com,68.09,9d6714fa-0b89-44f3-bbaf-be5ba57e8d50,Tank Top,2019-08-03
+825,Jennie,Ogdahl,jogdahlmw@dmoz.org,10.24,23699829-2260-45dc-889d-be1da7e1194e,Polo Shirt,2019-11-01
+826,Bartram,Gaiter,bgaitermx@ezinearticles.com,32.34,c5ada4fd-7c63-4e38-ab2d-fa4e6ac896bd,Sweater,2019-10-05
+827,Link,Pinchen,lpinchenmy@mit.edu,54.82,6388f5dd-72c3-48d1-bb0b-50cb959655e7,Sweater,2019-07-26
+828,Cinderella,Ambrogioli,cambrogiolimz@opera.com,33.66,3e2a3a19-7040-47cf-b833-994063d90320,Ski Coat,2019-09-05
+829,Reeta,Castano,rcastanon0@sciencedirect.com,54.46,7b76862f-779d-4171-8f3f-37deeb96b1f4,Fleece Jacket,2019-05-13
+830,Lucretia,Arnecke,larnecken1@sun.com,81.09,7e0909f4-8b3e-434f-9abf-2487704420a6,Sneakers,2019-09-14
+831,Meyer,Waterhous,mwaterhousn2@google.ru,8.84,09e3b0a2-8d66-44c2-9d64-8cecc1f48c66,Ski Coat,2019-06-09
+832,Yuri,Ennew,yennewn3@archive.org,24.75,c789854e-e07e-4f68-b4e5-e0a1b3927fec,Tank Top,2019-05-08
+833,Chelsie,Copcutt,ccopcuttn4@bravesites.com,34.45,99dd7a81-2221-4f72-9e1d-6d6faf877efb,Leggings,2019-12-27
+834,Billie,Wressell,bwresselln5@dion.ne.jp,60.63,dd6952f2-d5e7-4f27-9a94-37b5bac32c12,Leggings,2019-12-25
+835,Louis,Bolus,lbolusn6@springer.com,11.61,d2f45572-efa7-4b3f-8857-b8ffa8f3a00b,Jeans,2019-10-21
+836,Daffy,Strachan,dstrachann7@nifty.com,1.24,1c00c59d-5eea-4503-b156-ba5f9760901e,V-Neck Pullover,2019-08-03
+837,Adey,Longega,alongegan8@qq.com,59.65,d07abae5-1881-4c3c-9c4d-09bb17c665a5,Jeans,2019-06-01
+838,Emmalynne,Sams,esamsn9@joomla.org,9.62,ebb972e7-06a2-485a-8528-cf1f60ea930c,Fleece Jacket,2019-05-09
+839,Lacee,Braunroth,lbraunrothna@nytimes.com,48.53,1ea43470-6c26-4713-8c16-038ac364e6df,Stretch Pants,2019-02-23
+840,Giraldo,Hardiman,ghardimannb@wikimedia.org,8.39,20c2695a-6413-428e-8a89-bbecf440886b,Vest,2019-02-07
+841,Estevan,Mac Giany,emacgianync@nytimes.com,53.69,4ab3c0be-4ec4-4c71-b9a0-6add2f9d9631,Jeans,2019-06-28
+842,Jay,Stollenwerck,jstollenwercknd@scribd.com,71.36,0f94db9a-8a03-40cb-955c-d257f298169f,V-Neck Pullover,2019-01-24
+843,Constantia,Braunle,cbraunlene@so-net.ne.jp,84.07,16e1e386-0cda-4dca-82a6-2587ce9d3f75,Sneakers,2019-10-29
+844,Brietta,Filipczak,bfilipczaknf@mail.ru,71.13,d65b5a8b-f04c-4670-b0e7-e0d19cbb5d7f,Polo Shirt,2019-12-02
+845,Alethea,Crampton,acramptonng@tinypic.com,3.51,4d7cac6f-9b71-402d-9280-c78fb4492a04,Polo Shirt,2019-06-25
+846,Lucy,Willans,lwillansnh@paypal.com,88.70,58db0744-9988-40fe-91f4-9b78fcc7a56c,Stretch Pants,2019-01-09
+847,Daryl,Vardey,dvardeyni@ted.com,90.51,dc39584c-6fb9-41fc-8f0d-9fabdc3318f4,Polo Shirt,2019-06-01
+848,Stuart,Fesby,sfesbynj@adobe.com,74.74,343d1598-f04e-4ba3-9131-e9bfac7f6367,Stretch Pants,2019-10-12
+849,Ted,Tribbeck,ttribbecknk@uol.com.br,54.27,54895374-5b32-4c4e-89ae-e3fec44e561a,Ski Coat,2019-02-01
+850,Quinn,Sumshon,qsumshonnl@nymag.com,10.13,50ca44d0-389b-4954-8839-27dcdff463e6,Jeans,2019-03-22
+851,Gar,Eles,gelesnm@de.vu,82.88,26dfe6b9-b506-4e4e-a743-b7d39bc5a7a1,Stretch Pants,2019-02-22
+852,Marje,Aggus,maggusnn@paginegialle.it,7.60,13c04636-6243-43d8-8852-22b0bf33e546,Sweater,2019-08-12
+853,Celie,Crinidge,ccrinidgeno@redcross.org,95.60,1e2ad806-862e-40e4-87d0-d43eb3dc1a42,Sneakers,2019-03-12
+854,Crystie,Bradnum,cbradnumnp@ebay.com,25.12,4981d9c5-dbea-4fc4-a72d-2fb53a0506cb,Sneakers,2019-09-09
+855,Dianne,Tames,dtamesnq@sfgate.com,44.58,ad214b43-b795-45a4-bb50-f396fa55a830,Sneakers,2019-02-03
+856,Clarine,Pessolt,cpessoltnr@miibeian.gov.cn,84.50,8d3330eb-a622-4a2d-b90b-31ebb9341aec,Polo Shirt,2019-07-20
+857,Bendite,Clousley,bclousleyns@photobucket.com,35.49,58b37953-9629-4b62-a084-2505704aa936,Sneakers,2019-02-07
+858,Garvey,Hartles,ghartlesnt@buzzfeed.com,29.56,2dd75652-9f34-42ce-ba3f-a06641c905c8,Sweater,2019-05-21
+859,Essy,Ludlow,eludlownu@artisteer.com,95.96,5e84f18c-37eb-44e6-b7b4-bb3017f617a1,Ski Coat,2019-09-20
+860,Paolina,O' Loughran,poloughrannv@uiuc.edu,27.38,8abce042-d9ff-4d03-b285-a8ecd284dd1d,Vest,2019-03-20
+861,Woodie,Trussman,wtrussmannw@sourceforge.net,13.38,fd8650fe-eabc-480a-a266-b5e539f26d54,Ski Coat,2019-04-23
+862,Marianne,Trevaskus,mtrevaskusnx@hexun.com,72.91,a517e399-aee2-4673-ac0f-ed1572049fd4,Tank Top,2019-02-15
+863,Bobbie,Varsey,bvarseyny@columbia.edu,56.10,a464375d-6673-47f3-a98d-3a9719a493af,Sneakers,2019-11-29
+864,Susannah,Noades,snoadesnz@pcworld.com,76.65,cd4bbb71-7bb6-4673-bf6e-6fe55544d472,Sneakers,2019-06-07
+865,Louie,Poznan,lpoznano0@accuweather.com,39.41,558ceff4-3b53-48a0-adbb-3da848dd7029,Sneakers,2019-08-06
+866,Tana,Mant,tmanto1@cornell.edu,46.43,4501ff20-f7a5-495a-95cc-d59e3589bf6f,Stretch Pants,2019-09-27
+867,Dan,Parysiak,dparysiako2@ihg.com,5.58,495e69bd-f304-4749-acfc-a62150b69617,Fleece Jacket,2019-02-09
+868,Courtenay,Mouse,cmouseo3@gravatar.com,69.52,2627490c-0e18-40da-9fee-64ae8e9c8ed0,Polo Shirt,2019-10-07
+869,Katharine,Robbs,krobbso4@blog.com,4.88,a80f9a2c-479a-4260-802c-cd025fb5cc93,Sneakers,2019-12-08
+870,Miguelita,Sutterby,msutterbyo5@mtv.com,23.65,d144b007-5726-45ee-908c-16ed37ff7a18,Sweater,2019-07-14
+871,Dell,Kinnerk,dkinnerko6@slashdot.org,86.27,4993def4-ddef-4cc9-9eee-843bec817ad6,Stretch Pants,2019-12-22
+872,Antoine,Morteo,amorteoo7@i2i.jp,50.38,8571d0cb-b792-4811-bf38-1380c1d5dea3,Jeans,2019-02-02
+873,Arlana,Karpe,akarpeo8@vkontakte.ru,48.11,f2a6534c-aeb0-44ca-8429-76ef8a242486,Sneakers,2019-10-21
+874,Melinde,Ollander,mollandero9@bloglovin.com,40.47,b2709b7b-c29a-4f87-a40c-767e7f9a6447,Vest,2019-06-19
+875,Jacquetta,Bowlands,jbowlandsoa@census.gov,97.29,795d880f-5f83-46ee-862b-f477e0f2f47f,Polo Shirt,2019-11-29
+876,Olwen,Brereton,obreretonob@europa.eu,77.17,92eaa934-1667-4dff-bfca-48eebaace411,Sweater,2019-03-27
+877,Marcelline,Pursehouse,mpursehouseoc@tripod.com,99.71,8c2edac7-97b4-4af5-aec4-9666be26e841,Vest,2019-10-08
+878,Arabel,Scudamore,ascudamoreod@nifty.com,47.96,bd3e18a9-6045-4738-891c-c6edd5d36f1d,Leggings,2019-10-21
+879,Lavinie,Larvent,llarventoe@slashdot.org,84.91,ff49d88e-1bd0-4f13-99ef-b844e9cf2660,Polo Shirt,2019-08-31
+880,Kelly,Kuhne,kkuhneof@omniture.com,69.96,f0fbc864-23a5-467e-aab7-d60c5eda2c28,Ski Coat,2019-05-10
+881,Gawen,Bardnam,gbardnamog@eventbrite.com,5.67,5b6264a3-4495-446a-a1f8-953c16838cf9,V-Neck Pullover,2019-05-14
+882,Wilburt,Maddin,wmaddinoh@wikia.com,4.70,fc991947-a984-47b1-9c57-5db77efca855,V-Neck Pullover,2019-05-02
+883,Carlo,McAtamney,cmcatamneyoi@oracle.com,85.96,88e0bada-eec2-4864-b848-f2efcd8049c3,V-Neck Pullover,2019-08-03
+884,Tiler,Greenshields,tgreenshieldsoj@etsy.com,25.72,a8cd3380-a884-4438-831c-9417451c6958,Sneakers,2019-09-16
+885,Peggi,Purveys,ppurveysok@addtoany.com,78.33,7c9e4015-fe5e-4f41-83ec-54c96a4a384e,Vest,2019-05-12
+886,Jobie,Padgham,jpadghamol@last.fm,26.63,8142a934-8c75-410d-b144-4038f90d3d02,Fleece Jacket,2019-10-23
+887,Sinclair,Reihm,sreihmom@symantec.com,74.50,8627476f-5000-4812-9e29-6d53008df392,Polo Shirt,2019-05-03
+888,Joyous,Atchly,jatchlyon@weebly.com,54.08,271a950a-b9a2-426f-9eaf-62b1b6da312d,Jeans,2019-10-10
+889,Cletus,Quadri,cquadrioo@dedecms.com,37.36,7f1111e7-3416-4b0f-8618-6fd5e154cb29,Ski Coat,2019-07-26
+890,Riki,Garrals,rgarralsop@yandex.ru,48.18,8789f572-5000-457b-b53c-a2a3c3a19a45,V-Neck Pullover,2019-03-18
+891,Renae,Kirgan,rkirganoq@businesswire.com,46.05,6faeddfa-82dc-473f-9c18-e454eec28bf5,Stretch Pants,2019-09-05
+892,Julianna,Bisp,jbispor@independent.co.uk,69.26,b8c658e1-6645-4221-8489-0cb05f09f50c,Jeans,2019-06-14
+893,Dulcia,Simanek,dsimanekos@gnu.org,21.32,7e2e4df2-54b6-4169-913c-0c499d4b9a6a,Stretch Pants,2019-07-06
+894,Heath,Colicot,hcolicotot@xinhuanet.com,94.35,d4e6eaf6-955a-4bf7-92db-6ea7fdbff061,Fleece Jacket,2019-05-07
+895,Dael,Denne,ddenneou@blogger.com,80.94,64ae979e-3e76-4b54-877e-af09935c5161,Polo Shirt,2019-09-29
+896,Cathrin,Delgado,cdelgadoov@bloomberg.com,8.23,51df7029-01a5-49c5-be95-775a45a52254,Polo Shirt,2019-07-25
+897,Addie,Bilovus,abilovusow@samsung.com,19.34,56bc9159-5e5b-4505-83a8-60d70bfe6a13,Vest,2019-01-08
+898,Dillon,Jeffes,djeffesox@pbs.org,5.23,41041917-b6dd-4e3c-9c6a-6fa66ea6ca9c,Sneakers,2019-02-11
+899,Modesta,Hale,mhaleoy@cargocollective.com,12.70,cb7a5874-fc34-4081-94b3-e89ffe62e31d,Leggings,2019-03-07
+900,Jourdain,Apps,jappsoz@ed.gov,8.88,e4f0f755-eb09-4c61-926c-a26779f5fd37,Vest,2019-06-06
+901,Chere,O'Mailey,comaileyp0@ezinearticles.com,19.86,74800369-73a4-496c-81d6-c1dca10b261a,Vest,2019-04-12
+902,Bartolomeo,MacKeague,bmackeaguep1@hexun.com,90.61,70184c9c-46fd-4b9d-87df-558b4c646c44,Fleece Jacket,2019-02-03
+903,Werner,Markwell,wmarkwellp2@squarespace.com,58.55,ec7ea099-356d-4746-8896-e5d7cf99109b,Polo Shirt,2019-08-14
+904,Roch,Dadds,rdaddsp3@goodreads.com,37.70,86a4d68f-b258-474c-afd3-73b2ff9a2c58,Sweater,2019-06-09
+905,Tuckie,Wilman,twilmanp4@dedecms.com,17.73,78733d5c-77b4-4f36-afd7-aac29ffab0cf,Stretch Pants,2019-08-28
+906,Catie,Britto,cbrittop5@adobe.com,9.24,dccfd9f9-c48d-42d8-ae74-93c21beb9a56,Sweater,2020-01-01
+907,Kellia,Ackeroyd,kackeroydp6@columbia.edu,50.44,85c0608c-a050-42ae-b3e2-9ecd016e8b57,Ski Coat,2019-01-10
+908,Boycie,Ghent,bghentp7@nature.com,62.76,9b8ea1fe-89ec-474a-88bb-3fe51d5499be,Polo Shirt,2019-05-25
+909,Alwin,Bush,abushp8@gnu.org,56.26,963e1f59-0cae-4ef7-9709-d673492871cc,Stretch Pants,2019-06-13
+910,Carissa,Buessen,cbuessenp9@youku.com,99.12,1c27bf85-d337-4837-979d-53ec4876f63e,Tank Top,2019-12-03
+911,Tracey,Mintoft,tmintoftpa@elpais.com,22.23,501d883c-09f2-4359-8204-9559833375e3,V-Neck Pullover,2019-12-14
+912,Petey,Housden,phousdenpb@cafepress.com,54.43,8bd63d11-579c-4d7d-b262-6ec49e210d33,Polo Shirt,2019-11-26
+913,Clare,Bucke,cbuckepc@netlog.com,42.11,26d375f1-1216-49f3-8ee7-ee4735c39e90,Sweater,2019-03-04
+914,Amandie,Abercrombie,aabercrombiepd@scientificamerican.com,25.46,62b4c590-4dd0-47aa-8fb2-6b083ae2f2dc,Jeans,2019-02-16
+915,Corri,Kender,ckenderpe@prweb.com,11.94,e0cdb1d4-c3f1-406a-a658-c39e49e87baf,Stretch Pants,2019-08-28
+916,Abramo,Ennor,aennorpf@drupal.org,97.17,0fab5f8e-8bdc-486d-9338-a0aeea97e04e,Tank Top,2019-05-08
+917,Tiffany,Kornacki,tkornackipg@ibm.com,3.34,65d4e3b0-99f9-45ec-b109-7dbbe6498358,Vest,2019-10-29
+918,Debbie,Sandlin,dsandlinph@sitemeter.com,54.86,d7f3e3b6-458f-4118-b34c-2f65c6f728f2,Jeans,2019-11-25
+919,Denna,Tucknott,dtucknottpi@nasa.gov,71.09,7bdbb7e7-1128-4615-a641-772a8fde1b7b,Jeans,2019-10-06
+920,Valene,Papierz,vpapierzpj@simplemachines.org,89.45,dcba1983-8835-4da8-8a00-476ba1e6fdfc,Leggings,2019-05-09
+921,Moselle,Mergue,mmerguepk@google.com.au,15.52,6fc29454-1842-4af2-9a75-9d569fe8fb4b,V-Neck Pullover,2019-08-09
+922,Timmie,Garret,tgarretpl@geocities.jp,83.59,227f8aad-cb0c-4349-b836-bf25c0b3aab8,Fleece Jacket,2019-04-04
+923,Maegan,LaBastida,mlabastidapm@rediff.com,94.89,1d8dd6a1-c7f8-481f-bd2d-8bbe716cfed1,Vest,2019-12-15
+924,Eli,Vedmore,evedmorepn@cafepress.com,47.96,2ecfc9aa-6636-4935-b789-435a45b5b781,Ski Coat,2019-11-22
+925,Cookie,Tomsa,ctomsapo@wired.com,96.70,14d5560b-7a2a-466b-91c7-0d1d259ef5c0,Tank Top,2019-02-04
+926,Marleen,Hevey,mheveypp@delicious.com,76.82,0cab2b1a-3320-46e0-940c-0c862db450da,V-Neck Pullover,2019-01-28
+927,Carey,Tytler,ctytlerpq@netscape.com,21.54,4a73510b-ea24-4756-9a55-81d2938044a6,Tank Top,2019-05-28
+928,Crystal,Gittose,cgittosepr@psu.edu,17.66,229b2038-a757-4169-ac55-a083fbb10a71,V-Neck Pullover,2019-07-30
+929,Sally,Bampkin,sbampkinps@cyberchimps.com,9.24,0e98aa58-3e91-4852-8ec9-6d78ab307a8b,Sweater,2019-05-29
+930,Clemmie,Montez,cmontezpt@ning.com,12.05,245ab2cc-8d85-48dd-8aa7-b5b74691d514,Sneakers,2019-09-25
+931,Ozzie,Ferrier,oferrierpu@mediafire.com,21.00,866b3fe1-cc61-4dec-8d3d-518652eaef71,Jeans,2019-10-30
+932,Rosamund,Vignaux,rvignauxpv@ftc.gov,75.78,c3d6de08-02a3-4976-b3a1-4cd7ee495521,Fleece Jacket,2019-07-20
+933,Julianna,Garshore,jgarshorepw@php.net,8.05,3fe7c9fd-d179-47f0-bdfb-f4f270975eab,Sneakers,2019-11-15
+934,Raphael,Skurm,rskurmpx@fda.gov,70.73,dcb32c7c-e197-4c01-b252-e1dc3f3d8e2d,Stretch Pants,2019-11-03
+935,Lydon,Brant,lbrantpy@twitpic.com,50.63,d8c6567f-9fba-463e-a020-9cc70a6c39d8,V-Neck Pullover,2019-12-26
+936,Griselda,Grishagin,ggrishaginpz@technorati.com,66.17,f16ab517-b4d8-4051-90ec-ab08f7ddb458,Ski Coat,2019-08-27
+937,Malia,Berger,mbergerq0@merriam-webster.com,72.38,1720cdea-5511-4b01-87a9-f63b24cadc6e,Sneakers,2019-11-28
+938,Reinaldo,Exton,rextonq1@usda.gov,8.61,f4de363c-c6dd-4989-afce-f490fc6ec235,Stretch Pants,2019-02-10
+939,Faustine,Kyme,fkymeq2@chronoengine.com,79.74,15130718-8ed9-49ed-95bb-ecc1a4f4fd7e,Ski Coat,2019-08-16
+940,Ingrid,Jobke,ijobkeq3@google.co.jp,92.97,52e5abe4-521f-448d-bc9e-fe460bb3def7,Sweater,2019-12-23
+941,Daffi,Chamberlin,dchamberlinq4@ucoz.com,81.21,b551b77d-1040-49ed-bd67-a5f6ab421d59,Leggings,2019-03-19
+942,Bryon,Donisi,bdonisiq5@i2i.jp,94.42,8f572bb3-a5fe-4d59-9040-4916e18c6493,Sneakers,2019-02-12
+943,Ki,Herculson,kherculsonq6@sohu.com,3.89,98a56c9b-2a74-4d4f-9038-006c9405c15f,Sneakers,2019-04-05
+944,Tades,Sher,tsherq7@slideshare.net,47.88,13d5ed4e-8636-4aff-82f9-f02cd7627b8c,Stretch Pants,2019-09-20
+945,Herold,Calway,hcalwayq8@addtoany.com,1.78,26497abe-2972-47a2-bda9-5f3e5edc0549,Leggings,2019-11-17
+946,Zacherie,Stoving,zstovingq9@webnode.com,77.57,83f1584a-dfbe-40b8-af6b-81a43ffcdf74,V-Neck Pullover,2019-08-12
+947,Wolfie,Hamson,whamsonqa@home.pl,95.06,ebc9fc2a-06e9-4d06-82d1-a8da51be96ec,Sneakers,2019-08-15
+948,Emlynn,Silversmid,esilversmidqb@mayoclinic.com,24.15,51ab6c2c-07da-4169-abf8-cc4d97c54030,Vest,2019-11-21
+949,Binny,Garbett,bgarbettqc@simplemachines.org,94.24,c9db9ab7-b439-4a38-9061-34f679aae08f,Vest,2019-11-15
+950,Lari,Doiley,ldoileyqd@t.co,16.27,b36fc9b9-a4d7-4af4-8985-460c5e7f3ec3,Stretch Pants,2019-11-10
+951,Angie,Tipler,atiplerqe@prnewswire.com,2.03,cce79da6-abeb-441c-b885-c11a650015c8,Jeans,2019-02-01
+952,Devlin,Praton,dpratonqf@epa.gov,46.65,cf63224a-c4e2-46e0-bbc8-6f56470e8ceb,Tank Top,2019-08-22
+953,Sawyere,Baradel,sbaradelqg@slideshare.net,1.86,48512f18-7508-4ff7-b54e-b47ba988c082,Jeans,2019-11-05
+954,Merrel,Baldry,mbaldryqh@webnode.com,81.34,1f041f87-db5a-4bfb-a8fd-47cb97cb2e6b,Tank Top,2019-12-27
+955,Bonnibelle,Kyngdon,bkyngdonqi@nps.gov,99.36,f896165d-90be-4b6d-b481-f7319f82cf50,Stretch Pants,2019-04-17
+956,Gennifer,Ferroli,gferroliqj@plala.or.jp,12.27,a8ec0257-84fb-4aba-b36e-7b02ea4238eb,Polo Shirt,2019-12-06
+957,Carling,Gotcliff,cgotcliffqk@bloomberg.com,47.96,1ee9b04f-b48d-42d4-972a-c4fe565c3ad4,Stretch Pants,2019-05-03
+958,Annnora,Coom,acoomql@shop-pro.jp,35.58,c0f6aae3-bcbc-4b10-bb0d-5b35c844cf5d,Vest,2019-09-03
+959,Matthew,Demann,mdemannqm@miitbeian.gov.cn,90.44,bd378d49-b193-4b4e-8c45-d5db4a495384,V-Neck Pullover,2019-09-03
+960,Angil,Duley,aduleyqn@de.vu,75.11,4f639b7a-f39a-4e98-b10e-f968db71ad8a,Vest,2019-09-29
+961,Raffaello,Hibbart,rhibbartqo@senate.gov,97.38,d0bcf6a8-fbcb-4a3b-9778-75057232ad69,Stretch Pants,2019-11-17
+962,Sheilah,Sturm,ssturmqp@cdc.gov,59.02,e401d772-c2b4-4715-897a-348ead03e91c,Polo Shirt,2019-06-01
+963,Corey,Pally,cpallyqq@networkadvertising.org,16.19,00c3af7b-8a1a-4898-8369-86b1cfc9d1ec,Leggings,2020-01-03
+964,Nissa,Tonge,ntongeqr@bing.com,12.44,fe533cd8-c09a-44f1-bc12-57e8f2f6d1ad,Jeans,2019-09-19
+965,Shena,Firsby,sfirsbyqs@zdnet.com,37.22,a4808706-15c3-473b-bec3-c973554f7b63,Polo Shirt,2019-04-23
+966,Ky,Luchelli,kluchelliqt@freewebs.com,63.60,3ec42eeb-260d-4dfe-b26f-7a1448056fdf,Jeans,2019-03-31
+967,Fiann,Turvie,fturviequ@diigo.com,48.20,d3892542-9db1-412a-9b90-e4bce744d714,Sweater,2019-01-09
+968,Mar,Dockrill,mdockrillqv@intel.com,59.73,3bd47878-3772-4794-86b0-25a0aa8f75ce,Vest,2019-02-13
+969,Ninon,Bartalot,nbartalotqw@fotki.com,36.65,82a999ac-fdfd-4248-99a8-062844702594,Leggings,2019-10-28
+970,Ola,Cords,ocordsqx@netscape.com,57.97,78daa400-6b3d-4547-80d0-03bfdb320023,V-Neck Pullover,2019-09-11
+971,Aguie,Weildish,aweildishqy@wikipedia.org,33.82,f81b1334-3d0d-4f44-aea3-a838494255c4,Sweater,2019-01-18
+972,Shantee,Caslake,scaslakeqz@booking.com,28.86,43dd9630-5ee8-469d-a55a-aa629cda1653,Sweater,2019-12-14
+973,Dorian,Randal,drandalr0@smh.com.au,1.15,104780cb-9ae8-448f-9bcb-154494752f12,Jeans,2019-06-19
+974,Noll,Humphery,nhumpheryr1@apple.com,4.07,f233951e-be8f-4783-8869-c991845fb09e,Polo Shirt,2019-09-10
+975,Agna,Campione,acampioner2@ucoz.ru,76.24,c32af04d-91d3-40da-9fcd-c9ddcee698b1,Leggings,2019-03-04
+976,Raddie,Motten,rmottenr3@prweb.com,35.41,ea566f39-8cc3-420c-9b47-0bec973bc2e4,Jeans,2019-03-23
+977,Welsh,Sketch,wsketchr4@princeton.edu,70.42,dad86c81-198f-4a87-881b-3f72822be27e,Sneakers,2019-11-19
+978,Leighton,Sidney,lsidneyr5@archive.org,64.98,1a726f6f-c05e-4b6e-84b5-528595c80f2f,Jeans,2019-08-30
+979,Lila,Paskins,lpaskinsr6@php.net,55.24,04864856-68d7-4098-997d-9cacde45516c,Leggings,2019-11-28
+980,Mariellen,Keasy,mkeasyr7@dagondesign.com,17.21,51d64975-aefd-4f64-b070-68267e5a5572,Fleece Jacket,2019-12-12
+981,Emelyne,Garfirth,egarfirthr8@1688.com,24.97,114b3a4d-535f-4c16-8d08-e3e8a8c975c0,Sweater,2019-05-01
+982,Demetris,Hoggan,dhogganr9@imageshack.us,73.24,1a5a799a-b1ec-42d1-a5c3-a7fa2683325b,V-Neck Pullover,2019-11-26
+983,Gabriele,Pallister,gpallisterra@discovery.com,15.17,5c6ee038-595d-4e86-9048-80d3c3527b50,V-Neck Pullover,2019-08-02
+984,Remington,Kingzet,rkingzetrb@psu.edu,93.01,fa883a7c-8ed2-4e4d-906d-a2c0b65784d2,Jeans,2019-08-19
+985,Prisca,Strasse,pstrasserc@quantcast.com,57.14,7f2e9d00-4144-4077-9e85-473d0ae058ec,Fleece Jacket,2019-12-12
+986,Naoma,Antonik,nantonikrd@flickr.com,82.55,da6c8474-8584-498a-9af4-7e3b744482fb,V-Neck Pullover,2019-06-26
+987,Turner,Kerfoot,tkerfootre@tiny.cc,20.24,94826a92-6be2-47af-a912-7c179d9b73d1,Vest,2019-02-18
+988,Blinni,Slatten,bslattenrf@woothemes.com,82.48,1cef58bd-177b-4812-ac42-d1e52c310c9b,Sweater,2019-09-06
+989,Kipp,Chew,kchewrg@cnet.com,51.29,6c1887b5-37c2-44a3-a2f0-1fcd42883828,Stretch Pants,2019-02-14
+990,Kit,O' Finan,kofinanrh@de.vu,2.14,879bc219-1152-4c90-b2a7-77e512267885,Jeans,2019-05-26
+991,Sissy,Ruddy,sruddyri@msu.edu,47.06,c2a84bd7-42af-445c-9d6b-37e398a423d5,Jeans,2019-03-09
+992,Walton,Jeves,wjevesrj@cloudflare.com,33.17,7fefb523-8936-4ed9-9a5e-b410bf23dc63,Sneakers,2019-03-30
+993,Zechariah,Hatton,zhattonrk@latimes.com,32.73,8e48b90c-0d95-4d4d-be4e-566d742e9d2c,Fleece Jacket,2019-07-28
+994,Prinz,McNiff,pmcniffrl@joomla.org,37.20,f72bb9c2-057f-45df-88b4-5bc10ca95901,Ski Coat,2019-08-10
+995,Roxi,Arnison,rarnisonrm@issuu.com,94.80,8b3f6a86-8004-4fe5-bb0a-dd6571c8fba1,Leggings,2019-04-18
+996,Gareth,Rolf,grolfrn@wikimedia.org,55.13,cd57e7c1-5df2-492b-87a9-0c1595f8fe99,Jeans,2019-08-16
+997,Alvinia,Blaver,ablaverro@parallels.com,7.41,7132e151-68a1-4c34-becc-8cc328ed49d2,V-Neck Pullover,2019-02-20
+998,Griswold,Arpino,garpinorp@lulu.com,85.50,34cb3e22-fd9f-4da7-8d68-86969f45ea74,Sneakers,2019-10-15
+999,Luelle,Nolte,lnolterq@merriam-webster.com,42.97,8d151850-2198-45d5-a06f-3ad27ed5c5af,Sweater,2019-01-24
+1000,Fidelia,Greguol,fgreguolrr@livejournal.com,6.27,f570fb1d-cb32-4990-947e-b48132968915,Stretch Pants,2019-02-09
