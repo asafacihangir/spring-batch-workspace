@@ -9,7 +9,6 @@ public class TrackedOrder extends Order {
   private boolean freeShipping;
 
   public TrackedOrder() {
-
   }
 
   public TrackedOrder(Order order) {

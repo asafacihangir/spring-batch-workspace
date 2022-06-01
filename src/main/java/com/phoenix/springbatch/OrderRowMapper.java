@@ -1,5 +1,6 @@
 package com.phoenix.springbatch;
 
+
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
@@ -22,4 +23,3 @@ public class OrderRowMapper implements RowMapper<Order> {
   }
 
 }
-

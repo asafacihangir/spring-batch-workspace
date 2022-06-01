@@ -14,6 +14,7 @@ import org.springframework.batch.item.database.builder.JdbcPagingItemReaderBuild
 import org.springframework.batch.item.database.support.SqlPagingQueryProviderFactoryBean;
 import org.springframework.batch.item.json.JacksonJsonObjectMarshaller;
 import org.springframework.batch.item.json.builder.JsonFileItemWriterBuilder;
+import org.springframework.batch.item.support.builder.CompositeItemProcessorBuilder;
 import org.springframework.batch.item.validator.BeanValidatingItemProcessor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
@@ -35,14 +36,33 @@ public class SpringBatchConfig {
   public DataSource dataSource;
 
   @Bean
+  public ItemProcessor<TrackedOrder, TrackedOrder> freeShippingItemProcessor() {
+    return new FreeShippingItemProcessor();
+  }
+
+  @Bean
+  public ItemProcessor<Order, TrackedOrder> compositeItemProcessor() {
+    return new CompositeItemProcessorBuilder<Order,TrackedOrder>()
+        .delegates(orderValidatingItemProcessor(), trackedOrderItemProcessor(), freeShippingItemProcessor())
+        .build();
+  }
+
+  @Bean
   public ItemProcessor<Order, TrackedOrder> trackedOrderItemProcessor() {
     return new TrackedOrderItemProcessor();
   }
 
   @Bean
+  public ItemProcessor<Order, Order> orderValidatingItemProcessor() {
+    BeanValidatingItemProcessor<Order> itemProcessor = new BeanValidatingItemProcessor<Order>();
+    itemProcessor.setFilter(true);
+    return itemProcessor;
+  }
+
+  @Bean
   public ItemWriter<TrackedOrder> itemWriter() {
     return new JsonFileItemWriterBuilder<TrackedOrder>()
-        .jsonObjectMarshaller(new JacksonJsonObjectMarshaller<>())
+        .jsonObjectMarshaller(new JacksonJsonObjectMarshaller<TrackedOrder>())
         .resource(new FileSystemResource("./data/shipped_orders_output.json"))
         .name("jsonItemWriter")
         .build();
@@ -76,7 +96,7 @@ public class SpringBatchConfig {
     return this.stepBuilderFactory.get("chunkBasedStep")
         .<Order, TrackedOrder>chunk(10)
         .reader(itemReader())
-        .processor(trackedOrderItemProcessor())
+        .processor(compositeItemProcessor())
         .writer(itemWriter())
         .build();
   }
@@ -85,5 +105,6 @@ public class SpringBatchConfig {
   public Job job() throws Exception {
     return this.jobBuilderFactory.get("job").start(chunkBasedStep()).build();
   }
+
 
 }

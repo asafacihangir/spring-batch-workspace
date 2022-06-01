@@ -2,8 +2,8 @@ package com.phoenix.springbatch;
 
 import java.math.BigDecimal;
 import java.util.Date;
-import javax.validation.constraints.Pattern;
 
+import javax.validation.constraints.Pattern;
 
 public class Order {
 
@@ -95,4 +95,3 @@ public class Order {
   }
 
 }
-
