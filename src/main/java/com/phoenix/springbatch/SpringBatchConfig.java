@@ -10,21 +10,25 @@ import org.springframework.batch.item.ItemProcessor;
 import org.springframework.batch.item.ItemReader;
 import org.springframework.batch.item.ItemWriter;
 import org.springframework.batch.item.database.PagingQueryProvider;
+import org.springframework.batch.item.database.builder.JdbcBatchItemWriterBuilder;
 import org.springframework.batch.item.database.builder.JdbcPagingItemReaderBuilder;
 import org.springframework.batch.item.database.support.SqlPagingQueryProviderFactoryBean;
-import org.springframework.batch.item.json.JacksonJsonObjectMarshaller;
-import org.springframework.batch.item.json.builder.JsonFileItemWriterBuilder;
 import org.springframework.batch.item.support.builder.CompositeItemProcessorBuilder;
 import org.springframework.batch.item.validator.BeanValidatingItemProcessor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.core.io.FileSystemResource;
+import org.springframework.core.task.TaskExecutor;
+import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 
 
 @Configuration
 @EnableBatchProcessing
 public class SpringBatchConfig {
+
+  public static String INSERT_ORDER_SQL = "insert into "
+      + "TRACKED_ORDER(order_id, first_name, last_name, email, item_id, item_name, cost, ship_date, tracking_number, free_shipping)"
+      + " values(:orderId,:firstName,:lastName,:email,:itemId,:itemName,:cost,:shipDate,:trackingNumber, :freeShipping)";
 
   @Autowired
   public JobBuilderFactory jobBuilderFactory;
@@ -59,14 +63,16 @@ public class SpringBatchConfig {
     return itemProcessor;
   }
 
+
   @Bean
-  public ItemWriter<TrackedOrder> itemWriter() {
-    return new JsonFileItemWriterBuilder<TrackedOrder>()
-        .jsonObjectMarshaller(new JacksonJsonObjectMarshaller<TrackedOrder>())
-        .resource(new FileSystemResource("./data/shipped_orders_output.json"))
-        .name("jsonItemWriter")
+  public ItemWriter<TrackedOrder> itemWriter () {
+
+    return new JdbcBatchItemWriterBuilder<TrackedOrder>().dataSource(dataSource)
+        .sql(INSERT_ORDER_SQL)
+        .beanMapped()
         .build();
   }
+
 
   @Bean
   public PagingQueryProvider queryProvider() throws Exception {
@@ -87,8 +93,17 @@ public class SpringBatchConfig {
         .queryProvider(queryProvider())
         .rowMapper(new OrderRowMapper())
         .pageSize(10)
+        .saveState(false)
         .build();
 
+  }
+
+  @Bean
+  public TaskExecutor taskExecutor() {
+    ThreadPoolTaskExecutor executor = new ThreadPoolTaskExecutor();
+    executor.setCorePoolSize(2);
+    executor.setMaxPoolSize(10);
+    return executor;
   }
 
   @Bean
@@ -98,10 +113,11 @@ public class SpringBatchConfig {
         .reader(itemReader())
         .processor(compositeItemProcessor())
         .faultTolerant()
-        .skip(OrderProcessingException.class)
-        .skipLimit(5)
-        .listener(new CustomSkipListener())
+        .retry(OrderProcessingException.class)
+        .retryLimit(3)
+        .listener(new CustomRetryListener())
         .writer(itemWriter())
+        .taskExecutor(taskExecutor())
         .build();
   }
 
@@ -109,5 +125,6 @@ public class SpringBatchConfig {
   public Job job() throws Exception {
     return this.jobBuilderFactory.get("job").start(chunkBasedStep()).build();
   }
+
 
 }
