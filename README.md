@@ -1,0 +1,2 @@
+# Spring Batch - Configuring Jobs For Skips
+- In some instances within a job, an exception may occur. However, the job should not be failed. Spring Batch allows for this sort of behavior through a concept known as skips. Skips allow permissible exceptions to be ignored so that jobs can continue their processing. 
