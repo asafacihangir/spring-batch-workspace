@@ -1,0 +1,13 @@
+[ {
+  "name" : "Daliah Shah",
+  "birthday" : "1987-04-19",
+  "email" : "Daliah.Shah@domain.xyz",
+  "revenue" : 0,
+  "customer" : false
+}, {
+  "name" : "Wei Lang",
+  "birthday" : "1985-04-19",
+  "email" : "Wei.Lang@domain.xyz",
+  "revenue" : 371.67,
+  "customer" : true
+}]
