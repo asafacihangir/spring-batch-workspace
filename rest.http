@@ -1,0 +1,34 @@
+# Intellij Ultimate test file, to check the api
+
+GET localhost:8081/holiday/search
+Accept: application/json
+Content-Type: application/json
+
+{
+  "flightDate": "2020-06-20",
+  "departureAirport": "AMSTERDAM",
+  "arrivalAirport": "NEWYORK"
+}
+###
+
+GET localhost:8081/holiday/search
+Accept: application/json
+Content-Type: application/json
+
+{
+  "flightDate": "2020-06-20",
+  "departureAirport": "PARIS",
+  "arrivalAirport": "DUBAI"
+}
+###
+
+GET localhost:8081/holiday/search
+Accept: application/json
+Content-Type: application/json
+
+{
+  "flightDate": "2020-06-20",
+  "departureAirport": "AMSTERDAM",
+  "arrivalAirport": "DUBAI"
+}
+###
