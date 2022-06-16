@@ -16,6 +16,7 @@
   <description>spring-batch</description>
   <properties>
     <java.version>17</java.version>
+    <datasource-proxy.version>1.7</datasource-proxy.version>
   </properties>
   <dependencies>
     <dependency>
@@ -58,6 +59,12 @@
       <groupId>com.github.javafaker</groupId>
       <artifactId>javafaker</artifactId>
       <version>1.0.2</version>
+    </dependency>
+
+    <dependency>
+      <groupId>net.ttddyy</groupId>
+      <artifactId>datasource-proxy</artifactId>
+      <version>${datasource-proxy.version}</version>
     </dependency>
 
   </dependencies>
