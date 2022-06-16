@@ -19,8 +19,8 @@ public class MysqlStudent {
   @Column(name = "email")
   private String email;
 
-  @Column(name = "dept_id")
-  private Long deptId;
+  @Column(name = "university")
+  private String university;
 
   @Column(name = "active")
   private Boolean active;
@@ -57,12 +57,12 @@ public class MysqlStudent {
     this.email = email;
   }
 
-  public Long getDeptId() {
-    return deptId;
+  public String getUniversity() {
+    return university;
   }
 
-  public void setDeptId(Long deptId) {
-    this.deptId = deptId;
+  public void setUniversity(String university) {
+    this.university = university;
   }
 
   public Boolean getActive() {

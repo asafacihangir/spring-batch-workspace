@@ -83,7 +83,7 @@ public class PostgresPersistenceConfiguration {
     properties.put("hibernate.connection.isolation",
         java.sql.Connection.TRANSACTION_READ_COMMITTED);
 
-    properties.put("spring.jpa.hibernate.ddl-auto","update");
+    properties.put("spring.jpa.hibernate.ddl-auto", "update");
     properties.put("hibernate.dialect", org.hibernate.dialect.PostgreSQL95Dialect.class);
 
     properties.put("spring.jpa.open-in-view", false);

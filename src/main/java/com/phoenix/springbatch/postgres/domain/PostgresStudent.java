@@ -2,12 +2,15 @@ package com.phoenix.springbatch.postgres.domain;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 @Entity
 public class PostgresStudent {
 
   @Id
+  @GeneratedValue(strategy = GenerationType.IDENTITY)
   private Long id;
 
   @Column(name = "first_name")
@@ -19,8 +22,8 @@ public class PostgresStudent {
   @Column(name = "email")
   private String email;
 
-  @Column(name = "dept_id")
-  private Long deptId;
+  @Column(name = "university")
+  private String university;
 
   @Column(name = "active")
   private Boolean active;
@@ -57,12 +60,12 @@ public class PostgresStudent {
     this.email = email;
   }
 
-  public Long getDeptId() {
-    return deptId;
+  public String getUniversity() {
+    return university;
   }
 
-  public void setDeptId(Long deptId) {
-    this.deptId = deptId;
+  public void setUniversity(String university) {
+    this.university = university;
   }
 
   public Boolean getActive() {
@@ -71,5 +74,17 @@ public class PostgresStudent {
 
   public void setActive(Boolean active) {
     this.active = active;
+  }
+
+  @Override
+  public String toString() {
+    return "PostgresStudent{" +
+        "id=" + id +
+        ", firstName='" + firstName + '\'' +
+        ", lastName='" + lastName + '\'' +
+        ", email='" + email + '\'' +
+        ", university='" + university + '\'' +
+        ", active=" + active +
+        '}';
   }
 }
