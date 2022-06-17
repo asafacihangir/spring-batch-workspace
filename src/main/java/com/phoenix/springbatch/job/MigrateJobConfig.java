@@ -3,19 +3,21 @@ package com.phoenix.springbatch.job;
 import com.phoenix.springbatch.mysql.domain.MysqlStudent;
 import com.phoenix.springbatch.postgres.domain.PostgresStudent;
 import javax.persistence.EntityManagerFactory;
+import org.hibernate.SessionFactory;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.JobBuilderFactory;
 import org.springframework.batch.core.configuration.annotation.StepBuilderFactory;
 import org.springframework.batch.core.configuration.annotation.StepScope;
 import org.springframework.batch.core.launch.support.RunIdIncrementer;
-import org.springframework.batch.item.database.JpaCursorItemReader;
+import org.springframework.batch.item.database.HibernatePagingItemReader;
 import org.springframework.batch.item.database.JpaItemWriter;
+import org.springframework.batch.item.database.builder.HibernatePagingItemReaderBuilder;
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.orm.jpa.JpaTransactionManager;
+import org.springframework.core.task.SimpleAsyncTaskExecutor;
+import org.springframework.core.task.TaskExecutor;
 import org.springframework.transaction.PlatformTransactionManager;
 
 @Configuration
@@ -58,8 +60,8 @@ public class MigrateJobConfig {
 
   private Step firstChunkStep() {
     return stepBuilderFactory.get("First Chunk Step")
-        .<PostgresStudent, MysqlStudent>chunk(5)
-        .reader(jpaCursorItemReader(null, null))
+        .<PostgresStudent, MysqlStudent>chunk(100)
+        .reader(customerItemReader())
         .processor(firstItemProcessor)
         .writer(jpaItemWriter())
         .faultTolerant()
@@ -68,21 +70,10 @@ public class MigrateJobConfig {
         .retryLimit(3)
         .retry(Throwable.class)
         .transactionManager(jpaTransactionManager)
+        .taskExecutor(asyncTaskExecutor())
         .build();
   }
 
-  @StepScope
-  @Bean
-  public JpaCursorItemReader<PostgresStudent> jpaCursorItemReader(
-      @Value("#{jobParameters['currentItemCount']}") Integer currentItemCount,
-      @Value("#{jobParameters['maxItemCount']}") Integer maxItemCount) {
-    JpaCursorItemReader<PostgresStudent> jpaCursorItemReader = new JpaCursorItemReader<>();
-    jpaCursorItemReader.setEntityManagerFactory(postgresEntityManager);
-    jpaCursorItemReader.setQueryString("From PostgresStudent");
-    //jpaCursorItemReader.setCurrentItemCount(currentItemCount);
-    //jpaCursorItemReader.setMaxItemCount(1001);
-    return jpaCursorItemReader;
-  }
 
   public JpaItemWriter<MysqlStudent> jpaItemWriter() {
     JpaItemWriter<MysqlStudent> jpaItemWriter = new JpaItemWriter<>();
@@ -90,5 +81,22 @@ public class MigrateJobConfig {
     return jpaItemWriter;
   }
 
+  @Bean
+  @StepScope
+  public HibernatePagingItemReader<PostgresStudent> customerItemReader() {
+    return new HibernatePagingItemReaderBuilder<PostgresStudent>()
+        .name("customerItemReader")
+        .sessionFactory(postgresEntityManager.unwrap(SessionFactory.class))
+        .queryString("from PostgresStudent")
+        .pageSize(10)
+        .build();
+  }
+
+  @Bean
+  public TaskExecutor asyncTaskExecutor() {
+    SimpleAsyncTaskExecutor taskExecutor = new SimpleAsyncTaskExecutor();
+    taskExecutor.setConcurrencyLimit(10);
+    return taskExecutor;
+  }
 
 }

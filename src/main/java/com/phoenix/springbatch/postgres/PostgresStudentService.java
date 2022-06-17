@@ -24,7 +24,7 @@ public class PostgresStudentService {
   public void createStudentData() {
     final List<PostgresStudent> postgresStudents = new ArrayList<>();
     final Faker faker = new Faker();
-    for (int i = 0; i < 2500; i++) {
+    for (int i = 0; i < 10000; i++) {
       final PostgresStudent postgresStudent = new PostgresStudent();
       postgresStudent.setFirstName(faker.name().firstName());
       postgresStudent.setLastName(faker.name().lastName());
